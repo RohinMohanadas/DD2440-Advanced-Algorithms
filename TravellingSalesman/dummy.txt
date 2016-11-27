@@ -1,0 +1,3996 @@
+Time taken for 2Opt: 0.41s
+Cost of 2Opt:12256
+Cost before SA:12256
+Cost of new_path :12256
+Cost of new_path :13353
+Cost of new_path :14054
+Cost of new_path :14880
+Cost of new_path :15259
+Cost of new_path :16174
+Cost of new_path :16707
+Cost of new_path :16983
+Cost of new_path :17456
+Cost of new_path :18179
+minPathCost: 12256 currentCost: 18179 newPathCost: 18194
+Cost of new_path :18194
+Cost of new_path :18788
+Cost of new_path :19742
+Cost of new_path :20047
+Cost of new_path :20482
+Cost of new_path :21221
+Cost of new_path :21682
+Cost of new_path :21682
+Cost of new_path :22176
+Cost of new_path :22870
+Cost of new_path :23517
+Cost of new_path :23801
+Cost of new_path :24723
+Cost of new_path :25101
+Cost of new_path :25899
+Cost of new_path :26693
+Cost of new_path :27325
+Cost of new_path :27579
+Cost of new_path :27622
+Cost of new_path :28323
+Cost of new_path :28222
+Cost of new_path :28811
+Cost of new_path :28967
+Cost of new_path :29393
+Cost of new_path :29587
+Cost of new_path :30349
+Cost of new_path :31128
+Cost of new_path :31817
+Cost of new_path :31817
+Cost of new_path :32817
+Cost of new_path :33714
+Cost of new_path :34173
+Cost of new_path :34549
+Cost of new_path :35541
+Cost of new_path :35990
+Cost of new_path :36047
+Cost of new_path :36484
+Cost of new_path :36774
+Cost of new_path :37327
+minPathCost: 12256 currentCost: 37327 newPathCost: 37966
+Cost of new_path :37966
+Cost of new_path :38703
+Cost of new_path :38816
+Cost of new_path :39799
+minPathCost: 12256 currentCost: 39799 newPathCost: 39617
+Cost of new_path :39617
+Cost of new_path :40202
+Cost of new_path :40202
+Cost of new_path :40670
+Cost of new_path :41204
+Cost of new_path :41504
+Cost of new_path :42273
+Cost of new_path :42850
+Cost of new_path :43571
+Cost of new_path :44585
+Cost of new_path :45751
+Cost of new_path :46454
+Cost of new_path :47104
+Cost of new_path :47383
+Cost of new_path :47699
+Cost of new_path :48934
+Cost of new_path :49152
+Cost of new_path :49826
+Cost of new_path :50516
+Cost of new_path :50876
+Cost of new_path :51328
+Cost of new_path :51851
+Cost of new_path :51949
+Cost of new_path :52149
+Cost of new_path :52485
+Cost of new_path :52782
+Cost of new_path :53014
+Cost of new_path :53800
+Cost of new_path :53996
+Cost of new_path :54148
+Cost of new_path :54168
+Cost of new_path :54722
+Cost of new_path :55678
+Cost of new_path :55856
+Cost of new_path :56857
+Cost of new_path :57651
+Cost of new_path :58391
+Cost of new_path :58391
+Cost of new_path :59183
+Cost of new_path :59195
+Cost of new_path :59195
+Cost of new_path :60107
+Cost of new_path :60219
+Cost of new_path :60219
+Cost of new_path :60677
+Cost of new_path :60864
+Cost of new_path :61240
+Cost of new_path :61546
+Cost of new_path :61689
+Cost of new_path :61987
+Cost of new_path :62519
+Cost of new_path :63595
+Cost of new_path :64055
+Cost of new_path :64055
+Cost of new_path :64055
+Cost of new_path :64316
+Cost of new_path :65208
+Cost of new_path :65229
+Cost of new_path :65344
+Cost of new_path :65688
+Cost of new_path :66684
+Cost of new_path :67336
+Cost of new_path :67627
+Cost of new_path :68517
+Cost of new_path :69093
+Cost of new_path :70375
+Cost of new_path :70745
+Cost of new_path :71318
+Cost of new_path :72492
+Cost of new_path :72938
+Cost of new_path :73448
+Cost of new_path :73448
+Cost of new_path :74364
+Cost of new_path :74736
+Cost of new_path :75352
+Cost of new_path :75971
+Cost of new_path :76368
+Cost of new_path :77512
+Cost of new_path :78489
+minPathCost: 12256 currentCost: 78489 newPathCost: 78911
+Cost of new_path :78911
+Cost of new_path :79605
+Cost of new_path :80426
+Cost of new_path :80689
+Cost of new_path :81361
+Cost of new_path :81393
+Cost of new_path :81597
+Cost of new_path :81928
+Cost of new_path :82975
+Cost of new_path :83335
+Cost of new_path :83316
+Cost of new_path :83728
+Cost of new_path :84639
+Cost of new_path :85680
+Cost of new_path :86244
+Cost of new_path :86246
+Cost of new_path :86781
+Cost of new_path :86781
+Cost of new_path :86781
+Cost of new_path :87058
+Cost of new_path :87628
+minPathCost: 12256 currentCost: 87628 newPathCost: 87633
+Cost of new_path :87633
+Cost of new_path :88350
+Cost of new_path :88352
+Cost of new_path :89232
+Cost of new_path :89232
+Cost of new_path :89797
+Cost of new_path :89978
+Cost of new_path :90996
+Cost of new_path :91478
+Cost of new_path :91933
+Cost of new_path :92567
+Cost of new_path :92958
+Cost of new_path :93383
+Cost of new_path :93749
+Cost of new_path :94861
+Cost of new_path :94939
+Cost of new_path :94939
+Cost of new_path :96049
+Cost of new_path :96482
+Cost of new_path :96774
+Cost of new_path :96914
+Cost of new_path :97760
+Cost of new_path :98806
+Cost of new_path :99410
+Cost of new_path :99606
+Cost of new_path :99771
+Cost of new_path :100618
+Cost of new_path :100698
+Cost of new_path :100957
+Cost of new_path :101021
+Cost of new_path :101123
+Cost of new_path :101864
+Cost of new_path :102003
+Cost of new_path :102022
+Cost of new_path :102060
+Cost of new_path :102104
+Cost of new_path :102431
+Cost of new_path :102977
+Cost of new_path :103148
+Cost of new_path :103366
+Cost of new_path :104398
+minPathCost: 12256 currentCost: 104398 newPathCost: 104241
+Cost of new_path :104241
+Cost of new_path :104517
+Cost of new_path :105116
+Cost of new_path :105469
+Cost of new_path :105123
+Cost of new_path :105175
+Cost of new_path :105897
+Cost of new_path :105959
+Cost of new_path :106315
+Cost of new_path :106370
+Cost of new_path :106419
+Cost of new_path :106675
+Cost of new_path :107085
+Cost of new_path :107297
+Cost of new_path :108064
+Cost of new_path :108248
+Cost of new_path :108583
+Cost of new_path :108840
+Cost of new_path :108840
+Cost of new_path :109792
+Cost of new_path :110102
+Cost of new_path :110222
+Cost of new_path :111288
+Cost of new_path :111844
+Cost of new_path :111861
+Cost of new_path :112801
+Cost of new_path :113489
+Cost of new_path :113492
+minPathCost: 12256 currentCost: 113492 newPathCost: 113472
+Cost of new_path :113472
+Cost of new_path :114522
+Cost of new_path :114843
+Cost of new_path :115272
+Cost of new_path :115272
+Cost of new_path :115328
+Cost of new_path :115739
+Cost of new_path :116545
+Cost of new_path :117318
+Cost of new_path :117318
+Cost of new_path :118452
+Cost of new_path :118542
+Cost of new_path :119055
+Cost of new_path :119567
+Cost of new_path :119567
+Cost of new_path :119911
+Cost of new_path :119911
+Cost of new_path :119911
+Cost of new_path :120690
+minPathCost: 12256 currentCost: 120690 newPathCost: 120660
+Cost of new_path :120660
+Cost of new_path :121497
+Cost of new_path :121519
+Cost of new_path :121981
+Cost of new_path :121981
+Cost of new_path :122566
+minPathCost: 12256 currentCost: 122566 newPathCost: 122536
+Cost of new_path :122536
+Cost of new_path :123103
+Cost of new_path :123328
+Cost of new_path :123509
+Cost of new_path :123686
+Cost of new_path :123679
+Cost of new_path :124142
+Cost of new_path :125202
+Cost of new_path :125197
+minPathCost: 12256 currentCost: 125197 newPathCost: 125414
+Cost of new_path :125414
+Cost of new_path :126461
+Cost of new_path :126883
+Cost of new_path :126883
+Cost of new_path :127637
+Cost of new_path :127930
+Cost of new_path :128821
+Cost of new_path :129819
+Cost of new_path :129991
+Cost of new_path :130866
+Cost of new_path :131894
+Cost of new_path :131921
+Cost of new_path :132402
+Cost of new_path :133139
+Cost of new_path :133917
+minPathCost: 12256 currentCost: 133917 newPathCost: 133865
+Cost of new_path :133865
+Cost of new_path :134564
+Cost of new_path :134893
+Cost of new_path :135733
+Cost of new_path :136471
+Cost of new_path :136804
+Cost of new_path :137456
+Cost of new_path :137546
+Cost of new_path :137666
+Cost of new_path :138858
+minPathCost: 12256 currentCost: 138858 newPathCost: 138848
+Cost of new_path :138848
+Cost of new_path :138940
+Cost of new_path :138998
+Cost of new_path :139326
+Cost of new_path :139734
+Cost of new_path :140012
+minPathCost: 12256 currentCost: 140012 newPathCost: 139996
+Cost of new_path :139996
+Cost of new_path :141151
+Cost of new_path :141470
+Cost of new_path :141827
+Cost of new_path :142096
+Cost of new_path :142646
+Cost of new_path :143238
+Cost of new_path :143317
+Cost of new_path :143754
+Cost of new_path :143958
+Cost of new_path :143769
+Cost of new_path :144338
+Cost of new_path :144338
+minPathCost: 12256 currentCost: 144338 newPathCost: 144305
+Cost of new_path :144305
+Cost of new_path :144976
+Cost of new_path :145264
+Cost of new_path :145821
+Cost of new_path :145830
+Cost of new_path :146520
+minPathCost: 12256 currentCost: 146520 newPathCost: 146969
+Cost of new_path :146969
+Cost of new_path :147141
+Cost of new_path :147935
+Cost of new_path :149031
+Cost of new_path :149181
+Cost of new_path :149525
+Cost of new_path :150192
+Cost of new_path :150827
+Cost of new_path :150937
+Cost of new_path :150936
+Cost of new_path :150986
+Cost of new_path :150986
+Cost of new_path :151411
+Cost of new_path :151411
+Cost of new_path :151419
+Cost of new_path :151539
+Cost of new_path :151633
+Cost of new_path :151677
+Cost of new_path :152440
+Cost of new_path :152692
+Cost of new_path :153096
+minPathCost: 12256 currentCost: 153096 newPathCost: 153641
+Cost of new_path :153641
+Cost of new_path :153727
+Cost of new_path :154207
+Cost of new_path :154483
+Cost of new_path :154858
+Cost of new_path :155144
+Cost of new_path :155317
+Cost of new_path :155623
+Cost of new_path :155623
+Cost of new_path :155485
+Cost of new_path :156130
+Cost of new_path :156347
+Cost of new_path :157210
+Cost of new_path :157232
+minPathCost: 12256 currentCost: 157232 newPathCost: 157431
+Cost of new_path :157431
+Cost of new_path :157579
+Cost of new_path :157726
+Cost of new_path :158948
+minPathCost: 12256 currentCost: 158948 newPathCost: 158403
+Cost of new_path :158403
+Cost of new_path :158540
+minPathCost: 12256 currentCost: 158540 newPathCost: 158392
+Cost of new_path :158392
+Cost of new_path :158687
+minPathCost: 12256 currentCost: 158687 newPathCost: 158657
+Cost of new_path :158657
+minPathCost: 12256 currentCost: 158687 newPathCost: 158564
+Cost of new_path :158564
+Cost of new_path :158630
+Cost of new_path :158630
+Cost of new_path :159306
+Cost of new_path :159704
+Cost of new_path :159836
+Cost of new_path :160378
+Cost of new_path :160407
+minPathCost: 12256 currentCost: 160407 newPathCost: 160356
+Cost of new_path :160356
+minPathCost: 12256 currentCost: 160407 newPathCost: 160755
+Cost of new_path :160755
+Cost of new_path :161094
+Cost of new_path :161171
+Cost of new_path :161171
+Cost of new_path :161521
+Cost of new_path :161514
+minPathCost: 12256 currentCost: 161514 newPathCost: 161331
+Cost of new_path :161331
+Cost of new_path :161588
+Cost of new_path :161588
+Cost of new_path :161710
+minPathCost: 12256 currentCost: 161710 newPathCost: 161711
+Cost of new_path :161711
+Cost of new_path :161711
+Cost of new_path :161721
+Cost of new_path :161721
+minPathCost: 12256 currentCost: 161721 newPathCost: 162462
+Cost of new_path :162462
+Cost of new_path :162305
+Cost of new_path :162305
+Cost of new_path :162542
+Cost of new_path :162954
+Cost of new_path :163458
+Cost of new_path :163706
+Cost of new_path :164130
+Cost of new_path :164142
+Cost of new_path :165512
+Cost of new_path :165649
+Cost of new_path :166128
+Cost of new_path :166144
+Cost of new_path :166350
+Cost of new_path :166392
+Cost of new_path :167239
+Cost of new_path :167789
+minPathCost: 12256 currentCost: 167789 newPathCost: 167874
+Cost of new_path :167874
+Cost of new_path :167929
+Cost of new_path :168049
+Cost of new_path :168172
+Cost of new_path :168376
+Cost of new_path :168510
+Cost of new_path :168120
+minPathCost: 12256 currentCost: 168120 newPathCost: 167937
+Cost of new_path :167937
+minPathCost: 12256 currentCost: 168120 newPathCost: 167918
+Cost of new_path :167918
+minPathCost: 12256 currentCost: 168120 newPathCost: 167879
+Cost of new_path :167879
+minPathCost: 12256 currentCost: 168120 newPathCost: 168470
+Cost of new_path :168470
+Cost of new_path :169003
+Cost of new_path :169738
+Cost of new_path :170456
+Cost of new_path :170716
+Cost of new_path :170716
+minPathCost: 12256 currentCost: 170716 newPathCost: 170269
+Cost of new_path :170269
+Cost of new_path :171404
+Cost of new_path :171704
+Cost of new_path :171704
+Cost of new_path :171706
+Cost of new_path :171881
+minPathCost: 12256 currentCost: 171881 newPathCost: 171750
+Cost of new_path :171750
+Cost of new_path :171927
+Cost of new_path :172301
+Cost of new_path :173024
+Cost of new_path :173024
+Cost of new_path :173418
+Cost of new_path :173789
+minPathCost: 12256 currentCost: 173789 newPathCost: 174130
+Cost of new_path :174130
+Cost of new_path :174642
+Cost of new_path :174705
+Cost of new_path :174710
+Cost of new_path :175159
+Cost of new_path :175183
+minPathCost: 12256 currentCost: 175183 newPathCost: 175173
+Cost of new_path :175173
+minPathCost: 12256 currentCost: 175183 newPathCost: 174949
+Cost of new_path :174949
+Cost of new_path :174982
+Cost of new_path :175211
+Cost of new_path :174746
+Cost of new_path :174935
+Cost of new_path :175728
+minPathCost: 12256 currentCost: 175728 newPathCost: 176139
+Cost of new_path :176139
+Cost of new_path :176477
+minPathCost: 12256 currentCost: 176477 newPathCost: 176475
+Cost of new_path :176475
+Cost of new_path :176704
+Cost of new_path :176923
+Cost of new_path :177270
+Cost of new_path :177270
+Cost of new_path :177698
+Cost of new_path :177797
+Cost of new_path :178397
+Cost of new_path :179399
+Cost of new_path :179408
+Cost of new_path :180358
+Cost of new_path :180680
+Cost of new_path :180828
+minPathCost: 12256 currentCost: 180828 newPathCost: 180770
+Cost of new_path :180770
+Cost of new_path :180770
+Cost of new_path :181268
+Cost of new_path :181265
+Cost of new_path :181265
+Cost of new_path :181540
+Cost of new_path :181684
+Cost of new_path :181684
+Cost of new_path :181653
+minPathCost: 12256 currentCost: 181653 newPathCost: 181635
+Cost of new_path :181635
+Cost of new_path :181657
+Cost of new_path :181976
+Cost of new_path :182347
+minPathCost: 12256 currentCost: 182347 newPathCost: 182156
+Cost of new_path :182156
+Cost of new_path :182559
+Cost of new_path :182692
+Cost of new_path :182993
+Cost of new_path :183079
+Cost of new_path :183079
+Cost of new_path :184093
+Cost of new_path :184294
+Cost of new_path :184719
+Cost of new_path :185089
+minPathCost: 12256 currentCost: 185089 newPathCost: 185060
+Cost of new_path :185060
+Cost of new_path :185732
+Cost of new_path :186308
+Cost of new_path :186387
+Cost of new_path :186677
+Cost of new_path :186683
+minPathCost: 12256 currentCost: 186683 newPathCost: 186476
+Cost of new_path :186476
+Cost of new_path :187011
+minPathCost: 12256 currentCost: 187011 newPathCost: 186971
+Cost of new_path :186971
+Cost of new_path :186971
+minPathCost: 12256 currentCost: 187011 newPathCost: 187122
+Cost of new_path :187122
+Cost of new_path :187135
+minPathCost: 12256 currentCost: 187135 newPathCost: 186990
+Cost of new_path :186990
+Cost of new_path :187072
+Cost of new_path :187700
+Cost of new_path :188028
+Cost of new_path :188142
+Cost of new_path :188555
+Cost of new_path :189769
+Cost of new_path :189952
+minPathCost: 12256 currentCost: 189952 newPathCost: 189896
+Cost of new_path :189896
+Cost of new_path :190522
+Cost of new_path :190667
+minPathCost: 12256 currentCost: 190667 newPathCost: 190660
+Cost of new_path :190660
+Cost of new_path :190660
+Cost of new_path :190849
+Cost of new_path :191402
+minPathCost: 12256 currentCost: 191402 newPathCost: 191918
+Cost of new_path :191918
+Cost of new_path :192644
+minPathCost: 12256 currentCost: 192644 newPathCost: 192700
+Cost of new_path :192700
+minPathCost: 12256 currentCost: 192644 newPathCost: 192580
+Cost of new_path :192580
+Cost of new_path :192564
+minPathCost: 12256 currentCost: 192564 newPathCost: 191852
+Cost of new_path :191852
+Cost of new_path :192463
+Cost of new_path :192722
+Cost of new_path :192857
+minPathCost: 12256 currentCost: 192857 newPathCost: 193171
+Cost of new_path :193171
+Cost of new_path :194120
+Cost of new_path :194334
+Cost of new_path :194442
+minPathCost: 12256 currentCost: 194442 newPathCost: 194397
+Cost of new_path :194397
+minPathCost: 12256 currentCost: 194442 newPathCost: 194341
+Cost of new_path :194341
+Cost of new_path :194341
+Cost of new_path :194441
+Cost of new_path :194587
+Cost of new_path :194587
+minPathCost: 12256 currentCost: 194587 newPathCost: 194722
+Cost of new_path :194722
+Cost of new_path :194929
+Cost of new_path :195444
+Cost of new_path :195485
+Cost of new_path :195634
+Cost of new_path :195717
+Cost of new_path :195776
+Cost of new_path :196063
+Cost of new_path :196215
+Cost of new_path :196344
+Cost of new_path :196922
+Cost of new_path :197181
+minPathCost: 12256 currentCost: 197181 newPathCost: 197050
+Cost of new_path :197050
+Cost of new_path :197100
+Cost of new_path :197369
+Cost of new_path :197369
+Cost of new_path :197538
+minPathCost: 12256 currentCost: 197538 newPathCost: 197513
+Cost of new_path :197513
+Cost of new_path :197513
+Cost of new_path :197727
+Cost of new_path :197642
+Cost of new_path :198772
+Cost of new_path :198772
+Cost of new_path :198772
+minPathCost: 12256 currentCost: 198772 newPathCost: 198752
+Cost of new_path :198752
+Cost of new_path :198752
+Cost of new_path :198752
+Cost of new_path :198762
+Cost of new_path :198853
+minPathCost: 12256 currentCost: 198853 newPathCost: 199328
+Cost of new_path :199328
+Cost of new_path :199626
+minPathCost: 12256 currentCost: 199626 newPathCost: 199489
+Cost of new_path :199489
+Cost of new_path :200158
+minPathCost: 12256 currentCost: 200158 newPathCost: 201590
+Cost of new_path :201590
+Cost of new_path :201627
+Cost of new_path :201755
+Cost of new_path :202209
+minPathCost: 12256 currentCost: 202209 newPathCost: 201834
+Cost of new_path :201834
+Cost of new_path :202044
+Cost of new_path :202311
+minPathCost: 12256 currentCost: 202311 newPathCost: 202480
+Cost of new_path :202480
+Cost of new_path :202814
+Cost of new_path :203017
+Cost of new_path :204054
+Cost of new_path :204288
+Cost of new_path :204753
+minPathCost: 12256 currentCost: 204753 newPathCost: 205204
+Cost of new_path :205204
+Cost of new_path :205468
+Cost of new_path :206298
+Cost of new_path :207030
+Cost of new_path :207698
+minPathCost: 12256 currentCost: 207698 newPathCost: 207955
+Cost of new_path :207955
+Cost of new_path :208001
+Cost of new_path :207579
+Cost of new_path :207579
+Cost of new_path :207949
+Cost of new_path :208750
+minPathCost: 12256 currentCost: 208750 newPathCost: 208324
+Cost of new_path :208324
+Cost of new_path :208172
+Cost of new_path :208382
+Cost of new_path :208819
+Cost of new_path :209212
+Cost of new_path :210034
+minPathCost: 12256 currentCost: 210034 newPathCost: 209896
+Cost of new_path :209896
+minPathCost: 12256 currentCost: 210034 newPathCost: 210056
+Cost of new_path :210056
+Cost of new_path :210698
+minPathCost: 12256 currentCost: 210698 newPathCost: 210488
+Cost of new_path :210488
+Cost of new_path :210488
+Cost of new_path :211107
+Cost of new_path :211261
+minPathCost: 12256 currentCost: 211261 newPathCost: 211780
+Cost of new_path :211780
+minPathCost: 12256 currentCost: 211261 newPathCost: 211766
+Cost of new_path :211766
+Cost of new_path :212337
+Cost of new_path :212826
+Cost of new_path :212826
+minPathCost: 12256 currentCost: 212826 newPathCost: 211875
+Cost of new_path :211875
+Cost of new_path :212270
+Cost of new_path :212745
+Cost of new_path :213032
+Cost of new_path :212891
+minPathCost: 12256 currentCost: 212891 newPathCost: 212760
+Cost of new_path :212760
+Cost of new_path :212807
+minPathCost: 12256 currentCost: 212807 newPathCost: 212731
+Cost of new_path :212731
+Cost of new_path :213003
+minPathCost: 12256 currentCost: 213003 newPathCost: 212818
+Cost of new_path :212818
+Cost of new_path :212818
+minPathCost: 12256 currentCost: 213003 newPathCost: 212371
+Cost of new_path :212371
+Cost of new_path :212502
+Cost of new_path :212502
+Cost of new_path :212436
+Cost of new_path :212436
+minPathCost: 12256 currentCost: 212436 newPathCost: 212857
+Cost of new_path :212857
+Cost of new_path :213001
+Cost of new_path :213236
+Cost of new_path :213573
+Cost of new_path :213841
+Cost of new_path :213841
+minPathCost: 12256 currentCost: 213841 newPathCost: 214005
+Cost of new_path :214005
+Cost of new_path :213695
+minPathCost: 12256 currentCost: 213695 newPathCost: 214442
+Cost of new_path :214442
+Cost of new_path :214483
+minPathCost: 12256 currentCost: 214483 newPathCost: 214370
+Cost of new_path :214370
+Cost of new_path :214370
+minPathCost: 12256 currentCost: 214483 newPathCost: 214321
+Cost of new_path :214321
+Cost of new_path :214339
+Cost of new_path :214651
+Cost of new_path :215556
+minPathCost: 12256 currentCost: 215556 newPathCost: 215154
+Cost of new_path :215154
+Cost of new_path :215667
+Cost of new_path :215667
+Cost of new_path :216236
+Cost of new_path :217682
+Cost of new_path :217682
+Cost of new_path :217705
+Cost of new_path :217705
+Cost of new_path :218451
+Cost of new_path :218451
+Cost of new_path :218870
+Cost of new_path :218881
+Cost of new_path :218881
+Cost of new_path :218928
+Cost of new_path :218956
+Cost of new_path :218929
+Cost of new_path :219205
+Cost of new_path :219230
+Cost of new_path :219695
+Cost of new_path :219890
+Cost of new_path :219965
+Cost of new_path :219965
+minPathCost: 12256 currentCost: 219965 newPathCost: 219541
+Cost of new_path :219541
+minPathCost: 12256 currentCost: 219965 newPathCost: 220400
+Cost of new_path :220400
+minPathCost: 12256 currentCost: 219965 newPathCost: 220567
+Cost of new_path :220567
+Cost of new_path :220473
+Cost of new_path :220525
+minPathCost: 12256 currentCost: 220525 newPathCost: 221159
+Cost of new_path :221159
+Cost of new_path :221159
+Cost of new_path :221524
+minPathCost: 12256 currentCost: 221524 newPathCost: 221835
+Cost of new_path :221835
+Cost of new_path :222443
+minPathCost: 12256 currentCost: 222443 newPathCost: 222418
+Cost of new_path :222418
+minPathCost: 12256 currentCost: 222443 newPathCost: 222276
+Cost of new_path :222276
+minPathCost: 12256 currentCost: 222443 newPathCost: 222449
+Cost of new_path :222449
+minPathCost: 12256 currentCost: 222443 newPathCost: 222578
+Cost of new_path :222578
+minPathCost: 12256 currentCost: 222443 newPathCost: 222437
+Cost of new_path :222437
+Cost of new_path :222437
+minPathCost: 12256 currentCost: 222443 newPathCost: 222111
+Cost of new_path :222111
+minPathCost: 12256 currentCost: 222443 newPathCost: 222088
+Cost of new_path :222088
+Cost of new_path :222241
+Cost of new_path :222280
+Cost of new_path :222481
+minPathCost: 12256 currentCost: 222481 newPathCost: 222266
+Cost of new_path :222266
+Cost of new_path :222165
+Cost of new_path :222030
+Cost of new_path :222518
+Cost of new_path :222518
+minPathCost: 12256 currentCost: 222518 newPathCost: 222120
+Cost of new_path :222120
+Cost of new_path :222120
+Cost of new_path :222292
+Cost of new_path :222969
+minPathCost: 12256 currentCost: 222969 newPathCost: 223996
+Cost of new_path :223996
+Cost of new_path :223998
+Cost of new_path :224761
+Cost of new_path :225301
+minPathCost: 12256 currentCost: 225301 newPathCost: 225761
+Cost of new_path :225761
+Cost of new_path :225787
+minPathCost: 12256 currentCost: 225787 newPathCost: 225350
+Cost of new_path :225350
+Cost of new_path :225350
+Cost of new_path :225356
+Cost of new_path :225568
+Cost of new_path :225853
+minPathCost: 12256 currentCost: 225853 newPathCost: 225888
+Cost of new_path :225888
+minPathCost: 12256 currentCost: 225853 newPathCost: 225619
+Cost of new_path :225619
+Cost of new_path :225930
+Cost of new_path :226497
+minPathCost: 12256 currentCost: 226497 newPathCost: 226494
+Cost of new_path :226494
+minPathCost: 12256 currentCost: 226497 newPathCost: 225712
+Cost of new_path :225712
+Cost of new_path :225725
+Cost of new_path :226342
+Cost of new_path :226185
+Cost of new_path :226185
+Cost of new_path :226803
+Cost of new_path :226803
+Cost of new_path :227100
+Cost of new_path :227878
+minPathCost: 12256 currentCost: 227878 newPathCost: 227959
+Cost of new_path :227959
+Cost of new_path :228338
+Cost of new_path :228650
+Cost of new_path :228650
+Cost of new_path :229353
+Cost of new_path :229353
+Cost of new_path :230075
+Cost of new_path :230433
+Cost of new_path :230691
+Cost of new_path :230736
+Cost of new_path :230793
+Cost of new_path :231006
+Cost of new_path :231101
+Cost of new_path :231107
+Cost of new_path :230825
+Cost of new_path :230807
+minPathCost: 12256 currentCost: 230807 newPathCost: 230443
+Cost of new_path :230443
+Cost of new_path :230731
+Cost of new_path :230799
+minPathCost: 12256 currentCost: 230799 newPathCost: 230803
+Cost of new_path :230803
+Cost of new_path :230516
+minPathCost: 12256 currentCost: 230516 newPathCost: 230149
+Cost of new_path :230149
+Cost of new_path :230517
+Cost of new_path :230517
+Cost of new_path :230414
+Cost of new_path :230415
+Cost of new_path :230980
+minPathCost: 12256 currentCost: 230980 newPathCost: 230970
+Cost of new_path :230970
+minPathCost: 12256 currentCost: 230980 newPathCost: 230387
+Cost of new_path :230387
+Cost of new_path :230362
+Cost of new_path :230811
+Cost of new_path :230816
+Cost of new_path :231134
+Cost of new_path :231310
+minPathCost: 12256 currentCost: 231310 newPathCost: 231367
+Cost of new_path :231367
+Cost of new_path :232310
+Cost of new_path :232478
+Cost of new_path :232819
+minPathCost: 12256 currentCost: 232819 newPathCost: 232489
+Cost of new_path :232489
+Cost of new_path :232538
+minPathCost: 12256 currentCost: 232538 newPathCost: 232549
+Cost of new_path :232549
+minPathCost: 12256 currentCost: 232538 newPathCost: 233183
+Cost of new_path :233183
+Cost of new_path :233427
+minPathCost: 12256 currentCost: 233427 newPathCost: 233376
+Cost of new_path :233376
+Cost of new_path :233794
+Cost of new_path :234221
+Cost of new_path :234570
+minPathCost: 12256 currentCost: 234570 newPathCost: 234063
+Cost of new_path :234063
+Cost of new_path :234024
+Cost of new_path :234305
+minPathCost: 12256 currentCost: 234305 newPathCost: 234373
+Cost of new_path :234373
+minPathCost: 12256 currentCost: 234305 newPathCost: 234732
+Cost of new_path :234732
+Cost of new_path :234732
+Cost of new_path :234984
+minPathCost: 12256 currentCost: 234984 newPathCost: 235262
+Cost of new_path :235262
+Cost of new_path :235262
+Cost of new_path :235366
+Cost of new_path :236176
+Cost of new_path :236402
+Cost of new_path :236508
+Cost of new_path :236683
+minPathCost: 12256 currentCost: 236683 newPathCost: 236500
+Cost of new_path :236500
+Cost of new_path :236335
+Cost of new_path :236344
+Cost of new_path :236424
+Cost of new_path :236565
+Cost of new_path :236954
+Cost of new_path :237148
+Cost of new_path :237201
+minPathCost: 12256 currentCost: 237201 newPathCost: 237524
+Cost of new_path :237524
+Cost of new_path :237670
+Cost of new_path :237888
+minPathCost: 12256 currentCost: 237888 newPathCost: 237878
+Cost of new_path :237878
+Cost of new_path :238109
+Cost of new_path :238211
+minPathCost: 12256 currentCost: 238211 newPathCost: 238823
+Cost of new_path :238823
+Cost of new_path :239132
+Cost of new_path :239586
+Cost of new_path :239911
+Cost of new_path :239923
+minPathCost: 12256 currentCost: 239923 newPathCost: 239770
+Cost of new_path :239770
+Cost of new_path :240611
+Cost of new_path :240524
+minPathCost: 12256 currentCost: 240524 newPathCost: 240081
+Cost of new_path :240081
+Cost of new_path :240205
+minPathCost: 12256 currentCost: 240205 newPathCost: 240155
+Cost of new_path :240155
+Cost of new_path :240155
+minPathCost: 12256 currentCost: 240205 newPathCost: 239995
+Cost of new_path :239995
+Cost of new_path :240055
+Cost of new_path :240093
+Cost of new_path :240788
+Cost of new_path :240820
+minPathCost: 12256 currentCost: 240820 newPathCost: 240837
+Cost of new_path :240837
+minPathCost: 12256 currentCost: 240820 newPathCost: 240806
+Cost of new_path :240806
+Cost of new_path :240806
+Cost of new_path :240638
+Cost of new_path :240661
+minPathCost: 12256 currentCost: 240661 newPathCost: 240556
+Cost of new_path :240556
+Cost of new_path :240611
+minPathCost: 12256 currentCost: 240611 newPathCost: 240597
+Cost of new_path :240597
+Cost of new_path :241383
+minPathCost: 12256 currentCost: 241383 newPathCost: 241310
+Cost of new_path :241310
+Cost of new_path :241312
+Cost of new_path :241282
+Cost of new_path :241282
+Cost of new_path :241282
+Cost of new_path :241445
+Cost of new_path :241341
+Cost of new_path :241816
+Cost of new_path :241816
+Cost of new_path :241819
+Cost of new_path :241858
+minPathCost: 12256 currentCost: 241858 newPathCost: 242269
+Cost of new_path :242269
+Cost of new_path :242282
+Cost of new_path :242552
+Cost of new_path :242552
+Cost of new_path :242590
+Cost of new_path :242695
+Cost of new_path :243359
+Cost of new_path :243359
+Cost of new_path :243526
+Cost of new_path :243697
+minPathCost: 12256 currentCost: 243697 newPathCost: 243267
+Cost of new_path :243267
+Cost of new_path :243267
+Cost of new_path :243545
+Cost of new_path :243737
+minPathCost: 12256 currentCost: 243737 newPathCost: 244461
+Cost of new_path :244461
+minPathCost: 12256 currentCost: 243737 newPathCost: 244869
+Cost of new_path :244869
+Cost of new_path :245025
+Cost of new_path :245289
+Cost of new_path :245353
+Cost of new_path :245353
+Cost of new_path :246114
+minPathCost: 12256 currentCost: 246114 newPathCost: 245997
+Cost of new_path :245997
+Cost of new_path :245997
+minPathCost: 12256 currentCost: 246114 newPathCost: 245560
+Cost of new_path :245560
+Cost of new_path :246218
+minPathCost: 12256 currentCost: 246218 newPathCost: 245978
+Cost of new_path :245978
+Cost of new_path :246440
+minPathCost: 12256 currentCost: 246440 newPathCost: 246237
+Cost of new_path :246237
+Cost of new_path :246253
+Cost of new_path :246146
+Cost of new_path :246146
+Cost of new_path :246173
+minPathCost: 12256 currentCost: 246173 newPathCost: 246025
+Cost of new_path :246025
+Cost of new_path :246507
+minPathCost: 12256 currentCost: 246507 newPathCost: 246398
+Cost of new_path :246398
+Cost of new_path :246420
+minPathCost: 12256 currentCost: 246420 newPathCost: 246930
+Cost of new_path :246930
+minPathCost: 12256 currentCost: 246420 newPathCost: 246766
+Cost of new_path :246766
+Cost of new_path :247323
+Cost of new_path :247767
+minPathCost: 12256 currentCost: 247767 newPathCost: 248692
+Cost of new_path :248692
+minPathCost: 12256 currentCost: 247767 newPathCost: 248717
+Cost of new_path :248717
+minPathCost: 12256 currentCost: 247767 newPathCost: 248452
+Cost of new_path :248452
+Cost of new_path :248787
+Cost of new_path :248926
+minPathCost: 12256 currentCost: 248926 newPathCost: 248208
+Cost of new_path :248208
+Cost of new_path :248813
+Cost of new_path :249118
+minPathCost: 12256 currentCost: 249118 newPathCost: 248932
+Cost of new_path :248932
+Cost of new_path :249029
+Cost of new_path :249304
+minPathCost: 12256 currentCost: 249304 newPathCost: 249158
+Cost of new_path :249158
+minPathCost: 12256 currentCost: 249304 newPathCost: 249241
+Cost of new_path :249241
+Cost of new_path :249418
+Cost of new_path :249403
+Cost of new_path :249680
+minPathCost: 12256 currentCost: 249680 newPathCost: 249214
+Cost of new_path :249214
+Cost of new_path :249603
+minPathCost: 12256 currentCost: 249603 newPathCost: 249624
+Cost of new_path :249624
+minPathCost: 12256 currentCost: 249603 newPathCost: 249609
+Cost of new_path :249609
+Cost of new_path :249609
+Cost of new_path :249871
+Cost of new_path :249939
+Cost of new_path :249618
+minPathCost: 12256 currentCost: 249618 newPathCost: 249578
+Cost of new_path :249578
+Cost of new_path :249604
+Cost of new_path :249763
+minPathCost: 12256 currentCost: 249763 newPathCost: 249281
+Cost of new_path :249281
+minPathCost: 12256 currentCost: 249763 newPathCost: 249384
+Cost of new_path :249384
+Cost of new_path :249084
+minPathCost: 12256 currentCost: 249084 newPathCost: 249164
+Cost of new_path :249164
+minPathCost: 12256 currentCost: 249084 newPathCost: 249594
+Cost of new_path :249594
+Cost of new_path :249751
+Cost of new_path :249973
+minPathCost: 12256 currentCost: 249973 newPathCost: 250847
+Cost of new_path :250847
+Cost of new_path :251042
+minPathCost: 12256 currentCost: 251042 newPathCost: 251163
+Cost of new_path :251163
+Cost of new_path :251086
+Cost of new_path :251222
+minPathCost: 12256 currentCost: 251222 newPathCost: 251452
+Cost of new_path :251452
+Cost of new_path :251528
+Cost of new_path :251526
+Cost of new_path :251871
+Cost of new_path :252107
+minPathCost: 12256 currentCost: 252107 newPathCost: 252261
+Cost of new_path :252261
+Cost of new_path :252517
+Cost of new_path :252517
+Cost of new_path :252517
+minPathCost: 12256 currentCost: 252517 newPathCost: 252615
+Cost of new_path :252615
+Cost of new_path :252924
+minPathCost: 12256 currentCost: 252924 newPathCost: 252336
+Cost of new_path :252336
+minPathCost: 12256 currentCost: 252924 newPathCost: 252330
+Cost of new_path :252330
+Cost of new_path :252678
+Cost of new_path :252846
+Cost of new_path :253684
+minPathCost: 12256 currentCost: 253684 newPathCost: 253620
+Cost of new_path :253620
+minPathCost: 12256 currentCost: 253684 newPathCost: 254279
+Cost of new_path :254279
+Cost of new_path :254279
+Cost of new_path :254279
+Cost of new_path :254471
+Cost of new_path :254367
+minPathCost: 12256 currentCost: 254367 newPathCost: 254563
+Cost of new_path :254563
+Cost of new_path :254464
+minPathCost: 12256 currentCost: 254464 newPathCost: 253807
+Cost of new_path :253807
+Cost of new_path :253807
+Cost of new_path :253812
+minPathCost: 12256 currentCost: 253812 newPathCost: 253653
+Cost of new_path :253653
+minPathCost: 12256 currentCost: 253812 newPathCost: 252988
+Cost of new_path :252988
+minPathCost: 12256 currentCost: 253812 newPathCost: 252928
+Cost of new_path :252928
+Cost of new_path :252928
+Cost of new_path :253161
+Cost of new_path :253057
+Cost of new_path :253154
+Cost of new_path :253351
+Cost of new_path :253351
+Cost of new_path :253516
+Cost of new_path :253574
+Cost of new_path :253575
+minPathCost: 12256 currentCost: 253575 newPathCost: 253799
+Cost of new_path :253799
+Cost of new_path :253816
+minPathCost: 12256 currentCost: 253816 newPathCost: 253756
+Cost of new_path :253756
+Cost of new_path :253837
+Cost of new_path :253530
+Cost of new_path :253530
+Cost of new_path :253663
+minPathCost: 12256 currentCost: 253663 newPathCost: 253496
+Cost of new_path :253496
+minPathCost: 12256 currentCost: 253663 newPathCost: 253838
+Cost of new_path :253838
+Cost of new_path :254068
+Cost of new_path :253963
+minPathCost: 12256 currentCost: 253963 newPathCost: 253952
+Cost of new_path :253952
+Cost of new_path :254430
+minPathCost: 12256 currentCost: 254430 newPathCost: 254102
+Cost of new_path :254102
+minPathCost: 12256 currentCost: 254430 newPathCost: 253693
+Cost of new_path :253693
+minPathCost: 12256 currentCost: 254430 newPathCost: 253292
+Cost of new_path :253292
+Cost of new_path :253423
+Cost of new_path :253423
+minPathCost: 12256 currentCost: 253423 newPathCost: 253280
+Cost of new_path :253280
+minPathCost: 12256 currentCost: 253423 newPathCost: 253134
+Cost of new_path :253134
+minPathCost: 12256 currentCost: 253423 newPathCost: 253735
+Cost of new_path :253735
+Cost of new_path :253735
+Cost of new_path :254653
+Cost of new_path :254008
+Cost of new_path :254315
+Cost of new_path :254315
+Cost of new_path :254357
+minPathCost: 12256 currentCost: 254357 newPathCost: 254437
+Cost of new_path :254437
+Cost of new_path :254443
+minPathCost: 12256 currentCost: 254443 newPathCost: 254496
+Cost of new_path :254496
+Cost of new_path :254065
+Cost of new_path :254068
+Cost of new_path :254095
+Cost of new_path :254098
+Cost of new_path :254446
+minPathCost: 12256 currentCost: 254446 newPathCost: 254130
+Cost of new_path :254130
+minPathCost: 12256 currentCost: 254446 newPathCost: 254293
+Cost of new_path :254293
+Cost of new_path :254293
+Cost of new_path :254296
+minPathCost: 12256 currentCost: 254296 newPathCost: 253898
+Cost of new_path :253898
+Cost of new_path :253898
+Cost of new_path :253898
+Cost of new_path :253898
+Cost of new_path :253860
+Cost of new_path :253902
+Cost of new_path :254310
+minPathCost: 12256 currentCost: 254310 newPathCost: 254080
+Cost of new_path :254080
+Cost of new_path :254088
+minPathCost: 12256 currentCost: 254088 newPathCost: 254087
+Cost of new_path :254087
+Cost of new_path :254456
+Cost of new_path :254576
+Cost of new_path :254642
+Cost of new_path :254630
+Cost of new_path :254630
+Cost of new_path :254848
+Cost of new_path :255251
+minPathCost: 12256 currentCost: 255251 newPathCost: 255065
+Cost of new_path :255065
+Cost of new_path :254928
+minPathCost: 12256 currentCost: 254928 newPathCost: 254968
+Cost of new_path :254968
+Cost of new_path :254968
+Cost of new_path :255191
+Cost of new_path :255191
+Cost of new_path :255257
+Cost of new_path :255276
+Cost of new_path :255276
+Cost of new_path :255509
+Cost of new_path :255549
+minPathCost: 12256 currentCost: 255549 newPathCost: 256368
+Cost of new_path :256368
+minPathCost: 12256 currentCost: 255549 newPathCost: 256832
+Cost of new_path :256832
+minPathCost: 12256 currentCost: 255549 newPathCost: 256764
+Cost of new_path :256764
+minPathCost: 12256 currentCost: 255549 newPathCost: 256586
+Cost of new_path :256586
+minPathCost: 12256 currentCost: 255549 newPathCost: 256674
+Cost of new_path :256674
+minPathCost: 12256 currentCost: 255549 newPathCost: 256626
+Cost of new_path :256626
+Cost of new_path :256431
+Cost of new_path :256415
+minPathCost: 12256 currentCost: 256415 newPathCost: 256261
+Cost of new_path :256261
+Cost of new_path :256261
+minPathCost: 12256 currentCost: 256415 newPathCost: 256242
+Cost of new_path :256242
+Cost of new_path :256242
+Cost of new_path :256507
+minPathCost: 12256 currentCost: 256507 newPathCost: 256390
+Cost of new_path :256390
+minPathCost: 12256 currentCost: 256507 newPathCost: 256938
+Cost of new_path :256938
+Cost of new_path :256938
+Cost of new_path :257042
+minPathCost: 12256 currentCost: 257042 newPathCost: 256914
+Cost of new_path :256914
+Cost of new_path :256914
+Cost of new_path :256914
+Cost of new_path :256914
+Cost of new_path :256955
+Cost of new_path :256955
+Cost of new_path :257019
+Cost of new_path :256892
+Cost of new_path :257314
+Cost of new_path :257399
+minPathCost: 12256 currentCost: 257399 newPathCost: 257216
+Cost of new_path :257216
+Cost of new_path :257216
+minPathCost: 12256 currentCost: 257399 newPathCost: 257213
+Cost of new_path :257213
+minPathCost: 12256 currentCost: 257399 newPathCost: 257383
+Cost of new_path :257383
+minPathCost: 12256 currentCost: 257399 newPathCost: 257105
+Cost of new_path :257105
+minPathCost: 12256 currentCost: 257399 newPathCost: 257095
+Cost of new_path :257095
+minPathCost: 12256 currentCost: 257399 newPathCost: 256630
+Cost of new_path :256630
+Cost of new_path :256723
+Cost of new_path :256734
+minPathCost: 12256 currentCost: 256734 newPathCost: 256509
+Cost of new_path :256509
+Cost of new_path :256509
+minPathCost: 12256 currentCost: 256734 newPathCost: 256274
+Cost of new_path :256274
+Cost of new_path :256306
+minPathCost: 12256 currentCost: 256306 newPathCost: 256284
+Cost of new_path :256284
+Cost of new_path :256323
+Cost of new_path :256323
+Cost of new_path :256323
+Cost of new_path :256323
+minPathCost: 12256 currentCost: 256323 newPathCost: 256688
+Cost of new_path :256688
+Cost of new_path :256694
+Cost of new_path :256196
+Cost of new_path :256196
+Cost of new_path :256270
+Cost of new_path :256270
+minPathCost: 12256 currentCost: 256270 newPathCost: 256228
+Cost of new_path :256228
+Cost of new_path :256228
+minPathCost: 12256 currentCost: 256270 newPathCost: 255913
+Cost of new_path :255913
+minPathCost: 12256 currentCost: 256270 newPathCost: 255798
+Cost of new_path :255798
+Cost of new_path :255798
+Cost of new_path :255823
+minPathCost: 12256 currentCost: 255823 newPathCost: 255713
+Cost of new_path :255713
+Cost of new_path :256094
+Cost of new_path :256207
+Cost of new_path :256207
+minPathCost: 12256 currentCost: 256207 newPathCost: 255941
+Cost of new_path :255941
+minPathCost: 12256 currentCost: 256207 newPathCost: 255750
+Cost of new_path :255750
+Cost of new_path :256025
+Cost of new_path :256186
+Cost of new_path :256178
+minPathCost: 12256 currentCost: 256178 newPathCost: 255990
+Cost of new_path :255990
+Cost of new_path :255979
+Cost of new_path :256245
+Cost of new_path :256245
+Cost of new_path :256245
+Cost of new_path :256468
+Cost of new_path :256811
+Cost of new_path :256811
+Cost of new_path :256895
+Cost of new_path :256895
+Cost of new_path :256895
+minPathCost: 12256 currentCost: 256895 newPathCost: 256493
+Cost of new_path :256493
+minPathCost: 12256 currentCost: 256895 newPathCost: 256453
+Cost of new_path :256453
+Cost of new_path :256453
+Cost of new_path :256552
+minPathCost: 12256 currentCost: 256552 newPathCost: 257233
+Cost of new_path :257233
+Cost of new_path :257454
+minPathCost: 12256 currentCost: 257454 newPathCost: 258224
+Cost of new_path :258224
+Cost of new_path :258228
+Cost of new_path :258228
+Cost of new_path :258431
+Cost of new_path :258182
+Cost of new_path :258182
+Cost of new_path :258188
+Cost of new_path :258316
+Cost of new_path :258561
+Cost of new_path :258597
+Cost of new_path :258597
+Cost of new_path :258597
+Cost of new_path :258693
+Cost of new_path :258693
+Cost of new_path :258798
+minPathCost: 12256 currentCost: 258798 newPathCost: 258537
+Cost of new_path :258537
+minPathCost: 12256 currentCost: 258798 newPathCost: 258486
+Cost of new_path :258486
+Cost of new_path :258635
+minPathCost: 12256 currentCost: 258635 newPathCost: 258633
+Cost of new_path :258633
+Cost of new_path :259283
+Cost of new_path :259283
+Cost of new_path :259283
+Cost of new_path :259283
+Cost of new_path :259403
+minPathCost: 12256 currentCost: 259403 newPathCost: 258924
+Cost of new_path :258924
+minPathCost: 12256 currentCost: 259403 newPathCost: 258932
+Cost of new_path :258932
+Cost of new_path :259178
+minPathCost: 12256 currentCost: 259178 newPathCost: 259048
+Cost of new_path :259048
+Cost of new_path :258771
+Cost of new_path :258771
+Cost of new_path :258771
+minPathCost: 12256 currentCost: 258771 newPathCost: 258693
+Cost of new_path :258693
+minPathCost: 12256 currentCost: 258771 newPathCost: 258210
+Cost of new_path :258210
+Cost of new_path :258146
+Cost of new_path :258706
+Cost of new_path :259076
+Cost of new_path :259160
+Cost of new_path :259160
+Cost of new_path :259301
+Cost of new_path :259301
+minPathCost: 12256 currentCost: 259301 newPathCost: 259773
+Cost of new_path :259773
+minPathCost: 12256 currentCost: 259301 newPathCost: 259526
+Cost of new_path :259526
+minPathCost: 12256 currentCost: 259301 newPathCost: 259628
+Cost of new_path :259628
+minPathCost: 12256 currentCost: 259301 newPathCost: 259168
+Cost of new_path :259168
+Cost of new_path :259037
+Cost of new_path :258949
+Cost of new_path :258954
+minPathCost: 12256 currentCost: 258954 newPathCost: 258418
+Cost of new_path :258418
+Cost of new_path :258813
+Cost of new_path :258813
+Cost of new_path :258813
+Cost of new_path :259114
+Cost of new_path :259124
+minPathCost: 12256 currentCost: 259124 newPathCost: 259100
+Cost of new_path :259100
+Cost of new_path :259342
+Cost of new_path :259436
+Cost of new_path :259436
+Cost of new_path :259436
+Cost of new_path :259531
+minPathCost: 12256 currentCost: 259531 newPathCost: 259075
+Cost of new_path :259075
+Cost of new_path :259075
+Cost of new_path :259075
+Cost of new_path :259075
+Cost of new_path :259075
+Cost of new_path :259221
+Cost of new_path :259221
+Cost of new_path :259221
+minPathCost: 12256 currentCost: 259221 newPathCost: 259165
+Cost of new_path :259165
+minPathCost: 12256 currentCost: 259221 newPathCost: 259265
+Cost of new_path :259265
+minPathCost: 12256 currentCost: 259221 newPathCost: 259395
+Cost of new_path :259395
+minPathCost: 12256 currentCost: 259221 newPathCost: 259968
+Cost of new_path :259968
+Cost of new_path :260211
+Cost of new_path :260211
+minPathCost: 12256 currentCost: 260211 newPathCost: 260145
+Cost of new_path :260145
+minPathCost: 12256 currentCost: 260211 newPathCost: 260372
+Cost of new_path :260372
+Cost of new_path :260372
+Cost of new_path :260372
+minPathCost: 12256 currentCost: 260211 newPathCost: 260336
+Cost of new_path :260336
+Cost of new_path :260251
+minPathCost: 12256 currentCost: 260251 newPathCost: 260107
+Cost of new_path :260107
+Cost of new_path :260107
+Cost of new_path :260107
+Cost of new_path :260407
+Cost of new_path :260407
+minPathCost: 12256 currentCost: 260407 newPathCost: 260360
+Cost of new_path :260360
+minPathCost: 12256 currentCost: 260407 newPathCost: 260301
+Cost of new_path :260301
+Cost of new_path :260818
+Cost of new_path :260981
+minPathCost: 12256 currentCost: 260981 newPathCost: 261108
+Cost of new_path :261108
+Cost of new_path :261169
+minPathCost: 12256 currentCost: 261169 newPathCost: 260773
+Cost of new_path :260773
+Cost of new_path :260771
+minPathCost: 12256 currentCost: 260771 newPathCost: 260698
+Cost of new_path :260698
+minPathCost: 12256 currentCost: 260771 newPathCost: 260619
+Cost of new_path :260619
+Cost of new_path :260619
+minPathCost: 12256 currentCost: 260771 newPathCost: 260221
+Cost of new_path :260221
+Cost of new_path :260221
+Cost of new_path :260258
+Cost of new_path :260413
+minPathCost: 12256 currentCost: 260413 newPathCost: 260248
+Cost of new_path :260248
+Cost of new_path :260248
+Cost of new_path :260248
+Cost of new_path :260248
+Cost of new_path :260602
+Cost of new_path :260602
+Cost of new_path :260602
+Cost of new_path :260380
+Cost of new_path :260380
+minPathCost: 12256 currentCost: 260380 newPathCost: 260270
+Cost of new_path :260270
+Cost of new_path :260270
+minPathCost: 12256 currentCost: 260380 newPathCost: 260637
+Cost of new_path :260637
+minPathCost: 12256 currentCost: 260380 newPathCost: 260614
+Cost of new_path :260614
+Cost of new_path :260614
+Cost of new_path :260679
+minPathCost: 12256 currentCost: 260679 newPathCost: 260825
+Cost of new_path :260825
+minPathCost: 12256 currentCost: 260679 newPathCost: 260856
+Cost of new_path :260856
+Cost of new_path :261076
+Cost of new_path :261337
+minPathCost: 12256 currentCost: 261337 newPathCost: 261204
+Cost of new_path :261204
+minPathCost: 12256 currentCost: 261337 newPathCost: 262044
+Cost of new_path :262044
+Cost of new_path :262138
+minPathCost: 12256 currentCost: 262138 newPathCost: 261914
+Cost of new_path :261914
+Cost of new_path :261888
+minPathCost: 12256 currentCost: 261888 newPathCost: 262149
+Cost of new_path :262149
+minPathCost: 12256 currentCost: 261888 newPathCost: 262232
+Cost of new_path :262232
+Cost of new_path :262264
+Cost of new_path :262264
+Cost of new_path :262278
+minPathCost: 12256 currentCost: 262278 newPathCost: 262038
+Cost of new_path :262038
+Cost of new_path :262030
+Cost of new_path :262030
+Cost of new_path :262030
+Cost of new_path :262125
+Cost of new_path :262125
+Cost of new_path :262125
+minPathCost: 12256 currentCost: 262125 newPathCost: 262126
+Cost of new_path :262126
+Cost of new_path :262066
+Cost of new_path :262226
+minPathCost: 12256 currentCost: 262226 newPathCost: 262247
+Cost of new_path :262247
+Cost of new_path :262247
+minPathCost: 12256 currentCost: 262226 newPathCost: 262304
+Cost of new_path :262304
+Cost of new_path :262341
+minPathCost: 12256 currentCost: 262341 newPathCost: 262291
+Cost of new_path :262291
+minPathCost: 12256 currentCost: 262341 newPathCost: 261801
+Cost of new_path :261801
+Cost of new_path :261801
+Cost of new_path :262215
+minPathCost: 12256 currentCost: 262215 newPathCost: 261357
+Cost of new_path :261357
+Cost of new_path :261357
+Cost of new_path :261357
+Cost of new_path :261382
+Cost of new_path :261382
+Cost of new_path :261513
+Cost of new_path :261732
+minPathCost: 12256 currentCost: 261732 newPathCost: 261223
+Cost of new_path :261223
+Cost of new_path :261223
+minPathCost: 12256 currentCost: 261732 newPathCost: 261069
+Cost of new_path :261069
+minPathCost: 12256 currentCost: 261732 newPathCost: 261053
+Cost of new_path :261053
+minPathCost: 12256 currentCost: 261732 newPathCost: 261261
+Cost of new_path :261261
+minPathCost: 12256 currentCost: 261732 newPathCost: 261119
+Cost of new_path :261119
+Cost of new_path :261119
+minPathCost: 12256 currentCost: 261732 newPathCost: 261155
+Cost of new_path :261155
+Cost of new_path :261232
+Cost of new_path :261255
+minPathCost: 12256 currentCost: 261255 newPathCost: 260815
+Cost of new_path :260815
+Cost of new_path :261055
+Cost of new_path :261055
+minPathCost: 12256 currentCost: 261055 newPathCost: 260991
+Cost of new_path :260991
+Cost of new_path :260991
+minPathCost: 12256 currentCost: 261055 newPathCost: 261281
+Cost of new_path :261281
+Cost of new_path :261281
+Cost of new_path :261310
+minPathCost: 12256 currentCost: 261310 newPathCost: 261340
+Cost of new_path :261340
+minPathCost: 12256 currentCost: 261310 newPathCost: 261333
+Cost of new_path :261333
+Cost of new_path :261771
+minPathCost: 12256 currentCost: 261771 newPathCost: 261485
+Cost of new_path :261485
+Cost of new_path :261495
+Cost of new_path :261855
+Cost of new_path :261855
+minPathCost: 12256 currentCost: 261855 newPathCost: 261374
+Cost of new_path :261374
+Cost of new_path :261374
+minPathCost: 12256 currentCost: 261855 newPathCost: 261366
+Cost of new_path :261366
+Cost of new_path :261252
+minPathCost: 12256 currentCost: 261252 newPathCost: 261437
+Cost of new_path :261437
+Cost of new_path :261445
+Cost of new_path :261445
+Cost of new_path :261445
+Cost of new_path :261250
+Cost of new_path :261403
+Cost of new_path :261620
+Cost of new_path :261620
+Cost of new_path :261620
+Cost of new_path :261755
+Cost of new_path :261757
+minPathCost: 12256 currentCost: 261757 newPathCost: 261461
+Cost of new_path :261461
+Cost of new_path :261461
+Cost of new_path :261461
+minPathCost: 12256 currentCost: 261757 newPathCost: 261546
+Cost of new_path :261546
+Cost of new_path :261546
+minPathCost: 12256 currentCost: 261757 newPathCost: 262289
+Cost of new_path :262289
+minPathCost: 12256 currentCost: 261757 newPathCost: 262109
+Cost of new_path :262109
+Cost of new_path :262109
+Cost of new_path :262109
+Cost of new_path :262161
+Cost of new_path :262426
+minPathCost: 12256 currentCost: 262426 newPathCost: 262133
+Cost of new_path :262133
+Cost of new_path :262133
+Cost of new_path :262164
+minPathCost: 12256 currentCost: 262164 newPathCost: 261792
+Cost of new_path :261792
+Cost of new_path :261792
+Cost of new_path :261792
+Cost of new_path :261792
+minPathCost: 12256 currentCost: 262164 newPathCost: 261549
+Cost of new_path :261549
+Cost of new_path :261549
+minPathCost: 12256 currentCost: 262164 newPathCost: 261712
+Cost of new_path :261712
+Cost of new_path :261733
+Cost of new_path :261733
+Cost of new_path :261847
+minPathCost: 12256 currentCost: 261847 newPathCost: 261686
+Cost of new_path :261686
+Cost of new_path :261831
+minPathCost: 12256 currentCost: 261831 newPathCost: 262187
+Cost of new_path :262187
+minPathCost: 12256 currentCost: 261831 newPathCost: 262131
+Cost of new_path :262131
+minPathCost: 12256 currentCost: 261831 newPathCost: 262424
+Cost of new_path :262424
+Cost of new_path :262424
+minPathCost: 12256 currentCost: 261831 newPathCost: 262513
+Cost of new_path :262513
+Cost of new_path :262513
+Cost of new_path :262805
+minPathCost: 12256 currentCost: 262805 newPathCost: 262701
+Cost of new_path :262701
+Cost of new_path :262701
+minPathCost: 12256 currentCost: 262805 newPathCost: 262640
+Cost of new_path :262640
+minPathCost: 12256 currentCost: 262805 newPathCost: 262558
+Cost of new_path :262558
+Cost of new_path :262642
+minPathCost: 12256 currentCost: 262642 newPathCost: 262591
+Cost of new_path :262591
+Cost of new_path :262591
+minPathCost: 12256 currentCost: 262642 newPathCost: 262383
+Cost of new_path :262383
+Cost of new_path :262383
+Cost of new_path :262383
+Cost of new_path :262383
+Cost of new_path :262465
+minPathCost: 12256 currentCost: 262465 newPathCost: 262041
+Cost of new_path :262041
+minPathCost: 12256 currentCost: 262465 newPathCost: 261817
+Cost of new_path :261817
+Cost of new_path :261995
+Cost of new_path :262004
+Cost of new_path :262004
+minPathCost: 12256 currentCost: 262004 newPathCost: 262079
+Cost of new_path :262079
+Cost of new_path :262107
+Cost of new_path :262173
+Cost of new_path :262173
+Cost of new_path :262219
+Cost of new_path :262219
+Cost of new_path :262229
+Cost of new_path :262229
+Cost of new_path :262229
+Cost of new_path :262229
+Cost of new_path :262271
+Cost of new_path :262271
+Cost of new_path :262271
+minPathCost: 12256 currentCost: 262271 newPathCost: 261962
+Cost of new_path :261962
+Cost of new_path :261962
+minPathCost: 12256 currentCost: 262271 newPathCost: 261807
+Cost of new_path :261807
+Cost of new_path :261807
+minPathCost: 12256 currentCost: 262271 newPathCost: 261594
+Cost of new_path :261594
+minPathCost: 12256 currentCost: 262271 newPathCost: 261230
+Cost of new_path :261230
+Cost of new_path :261260
+Cost of new_path :261260
+Cost of new_path :261260
+Cost of new_path :261260
+minPathCost: 12256 currentCost: 261260 newPathCost: 261265
+Cost of new_path :261265
+minPathCost: 12256 currentCost: 261260 newPathCost: 260785
+Cost of new_path :260785
+Cost of new_path :260422
+Cost of new_path :260422
+Cost of new_path :260422
+Cost of new_path :261232
+minPathCost: 12256 currentCost: 261232 newPathCost: 261203
+Cost of new_path :261203
+minPathCost: 12256 currentCost: 261232 newPathCost: 262005
+Cost of new_path :262005
+Cost of new_path :262024
+Cost of new_path :262024
+Cost of new_path :262059
+minPathCost: 12256 currentCost: 262059 newPathCost: 262048
+Cost of new_path :262048
+minPathCost: 12256 currentCost: 262059 newPathCost: 262003
+Cost of new_path :262003
+Cost of new_path :262003
+minPathCost: 12256 currentCost: 262059 newPathCost: 261959
+Cost of new_path :261959
+minPathCost: 12256 currentCost: 262059 newPathCost: 262073
+Cost of new_path :262073
+Cost of new_path :262073
+Cost of new_path :262152
+minPathCost: 12256 currentCost: 262152 newPathCost: 262318
+Cost of new_path :262318
+Cost of new_path :262318
+Cost of new_path :262345
+Cost of new_path :262345
+Cost of new_path :262345
+Cost of new_path :262345
+minPathCost: 12256 currentCost: 262345 newPathCost: 262263
+Cost of new_path :262263
+Cost of new_path :262263
+minPathCost: 12256 currentCost: 262345 newPathCost: 262158
+Cost of new_path :262158
+minPathCost: 12256 currentCost: 262345 newPathCost: 262144
+Cost of new_path :262144
+Cost of new_path :262144
+Cost of new_path :262142
+Cost of new_path :262142
+Cost of new_path :262142
+minPathCost: 12256 currentCost: 262142 newPathCost: 262068
+Cost of new_path :262068
+minPathCost: 12256 currentCost: 262142 newPathCost: 262766
+Cost of new_path :262766
+Cost of new_path :262722
+minPathCost: 12256 currentCost: 262722 newPathCost: 262720
+Cost of new_path :262720
+Cost of new_path :262737
+Cost of new_path :262737
+Cost of new_path :262737
+minPathCost: 12256 currentCost: 262737 newPathCost: 262750
+Cost of new_path :262750
+Cost of new_path :263190
+Cost of new_path :263349
+minPathCost: 12256 currentCost: 263349 newPathCost: 263360
+Cost of new_path :263360
+Cost of new_path :263294
+Cost of new_path :263295
+Cost of new_path :263408
+Cost of new_path :263408
+minPathCost: 12256 currentCost: 263408 newPathCost: 263358
+Cost of new_path :263358
+minPathCost: 12256 currentCost: 263408 newPathCost: 263214
+Cost of new_path :263214
+minPathCost: 12256 currentCost: 263408 newPathCost: 262753
+Cost of new_path :262753
+Cost of new_path :262753
+Cost of new_path :262753
+Cost of new_path :262753
+Cost of new_path :262753
+Cost of new_path :262753
+minPathCost: 12256 currentCost: 263408 newPathCost: 262767
+Cost of new_path :262767
+minPathCost: 12256 currentCost: 263408 newPathCost: 263142
+Cost of new_path :263142
+minPathCost: 12256 currentCost: 263408 newPathCost: 262685
+Cost of new_path :262685
+minPathCost: 12256 currentCost: 263408 newPathCost: 262602
+Cost of new_path :262602
+Cost of new_path :262602
+Cost of new_path :262602
+minPathCost: 12256 currentCost: 263408 newPathCost: 262602
+Cost of new_path :262602
+minPathCost: 12256 currentCost: 263408 newPathCost: 262348
+Cost of new_path :262348
+Cost of new_path :262348
+minPathCost: 12256 currentCost: 263408 newPathCost: 262331
+Cost of new_path :262331
+Cost of new_path :262331
+Cost of new_path :262461
+minPathCost: 12256 currentCost: 262461 newPathCost: 262537
+Cost of new_path :262537
+Cost of new_path :262537
+Cost of new_path :262537
+Cost of new_path :262577
+Cost of new_path :262554
+minPathCost: 12256 currentCost: 262554 newPathCost: 262749
+Cost of new_path :262749
+minPathCost: 12256 currentCost: 262554 newPathCost: 262956
+Cost of new_path :262956
+minPathCost: 12256 currentCost: 262554 newPathCost: 262911
+Cost of new_path :262911
+minPathCost: 12256 currentCost: 262554 newPathCost: 262617
+Cost of new_path :262617
+minPathCost: 12256 currentCost: 262554 newPathCost: 263314
+Cost of new_path :263314
+Cost of new_path :263314
+minPathCost: 12256 currentCost: 262554 newPathCost: 263229
+Cost of new_path :263229
+Cost of new_path :263229
+Cost of new_path :263229
+Cost of new_path :263229
+Cost of new_path :263331
+Cost of new_path :263331
+minPathCost: 12256 currentCost: 263331 newPathCost: 263428
+Cost of new_path :263428
+Cost of new_path :263428
+minPathCost: 12256 currentCost: 263331 newPathCost: 263874
+Cost of new_path :263874
+minPathCost: 12256 currentCost: 263331 newPathCost: 263632
+Cost of new_path :263632
+Cost of new_path :263656
+Cost of new_path :263656
+minPathCost: 12256 currentCost: 263656 newPathCost: 263643
+Cost of new_path :263643
+minPathCost: 12256 currentCost: 263656 newPathCost: 263443
+Cost of new_path :263443
+minPathCost: 12256 currentCost: 263656 newPathCost: 263790
+Cost of new_path :263790
+Cost of new_path :263790
+Cost of new_path :263908
+Cost of new_path :264051
+minPathCost: 12256 currentCost: 264051 newPathCost: 263926
+Cost of new_path :263926
+Cost of new_path :263926
+Cost of new_path :263975
+minPathCost: 12256 currentCost: 263975 newPathCost: 263877
+Cost of new_path :263877
+minPathCost: 12256 currentCost: 263975 newPathCost: 263379
+Cost of new_path :263379
+Cost of new_path :263493
+Cost of new_path :263605
+minPathCost: 12256 currentCost: 263605 newPathCost: 263669
+Cost of new_path :263669
+minPathCost: 12256 currentCost: 263605 newPathCost: 263180
+Cost of new_path :263180
+minPathCost: 12256 currentCost: 263605 newPathCost: 262967
+Cost of new_path :262967
+Cost of new_path :262967
+Cost of new_path :263002
+Cost of new_path :263067
+Cost of new_path :263105
+Cost of new_path :263174
+Cost of new_path :263174
+minPathCost: 12256 currentCost: 263174 newPathCost: 262937
+Cost of new_path :262937
+minPathCost: 12256 currentCost: 263174 newPathCost: 262882
+Cost of new_path :262882
+minPathCost: 12256 currentCost: 263174 newPathCost: 262477
+Cost of new_path :262477
+Cost of new_path :262477
+Cost of new_path :262477
+minPathCost: 12256 currentCost: 263174 newPathCost: 262693
+Cost of new_path :262693
+Cost of new_path :262704
+minPathCost: 12256 currentCost: 262704 newPathCost: 262606
+Cost of new_path :262606
+Cost of new_path :262606
+Cost of new_path :262606
+Cost of new_path :262606
+Cost of new_path :262606
+Cost of new_path :262585
+minPathCost: 12256 currentCost: 262585 newPathCost: 262188
+Cost of new_path :262188
+minPathCost: 12256 currentCost: 262585 newPathCost: 261735
+Cost of new_path :261735
+minPathCost: 12256 currentCost: 262585 newPathCost: 261979
+Cost of new_path :261979
+Cost of new_path :262029
+Cost of new_path :262029
+Cost of new_path :262029
+minPathCost: 12256 currentCost: 262029 newPathCost: 261885
+Cost of new_path :261885
+Cost of new_path :261885
+minPathCost: 12256 currentCost: 262029 newPathCost: 261919
+Cost of new_path :261919
+Cost of new_path :261919
+minPathCost: 12256 currentCost: 262029 newPathCost: 262098
+Cost of new_path :262098
+Cost of new_path :262098
+minPathCost: 12256 currentCost: 262029 newPathCost: 261727
+Cost of new_path :261727
+Cost of new_path :261727
+Cost of new_path :261186
+Cost of new_path :261259
+Cost of new_path :261317
+Cost of new_path :261451
+Cost of new_path :261534
+Cost of new_path :261534
+Cost of new_path :261534
+minPathCost: 12256 currentCost: 261534 newPathCost: 261435
+Cost of new_path :261435
+Cost of new_path :261515
+Cost of new_path :261515
+minPathCost: 12256 currentCost: 261515 newPathCost: 261551
+Cost of new_path :261551
+minPathCost: 12256 currentCost: 261515 newPathCost: 261543
+Cost of new_path :261543
+minPathCost: 12256 currentCost: 261515 newPathCost: 261774
+Cost of new_path :261774
+Cost of new_path :261774
+minPathCost: 12256 currentCost: 261515 newPathCost: 261710
+Cost of new_path :261710
+Cost of new_path :261710
+minPathCost: 12256 currentCost: 261515 newPathCost: 261562
+Cost of new_path :261562
+Cost of new_path :261562
+minPathCost: 12256 currentCost: 261515 newPathCost: 262050
+Cost of new_path :262050
+Cost of new_path :262047
+minPathCost: 12256 currentCost: 262047 newPathCost: 261867
+Cost of new_path :261867
+minPathCost: 12256 currentCost: 262047 newPathCost: 261615
+Cost of new_path :261615
+minPathCost: 12256 currentCost: 262047 newPathCost: 262090
+Cost of new_path :262090
+minPathCost: 12256 currentCost: 262047 newPathCost: 262016
+Cost of new_path :262016
+Cost of new_path :262016
+Cost of new_path :262029
+Cost of new_path :262029
+minPathCost: 12256 currentCost: 262029 newPathCost: 262300
+Cost of new_path :262300
+minPathCost: 12256 currentCost: 262029 newPathCost: 262290
+Cost of new_path :262290
+Cost of new_path :262292
+minPathCost: 12256 currentCost: 262292 newPathCost: 262304
+Cost of new_path :262304
+minPathCost: 12256 currentCost: 262292 newPathCost: 262584
+Cost of new_path :262584
+minPathCost: 12256 currentCost: 262292 newPathCost: 262576
+Cost of new_path :262576
+minPathCost: 12256 currentCost: 262292 newPathCost: 262552
+Cost of new_path :262552
+Cost of new_path :262552
+minPathCost: 12256 currentCost: 262292 newPathCost: 262352
+Cost of new_path :262352
+Cost of new_path :262366
+Cost of new_path :262477
+minPathCost: 12256 currentCost: 262477 newPathCost: 262336
+Cost of new_path :262336
+Cost of new_path :262336
+Cost of new_path :262336
+minPathCost: 12256 currentCost: 262477 newPathCost: 262128
+Cost of new_path :262128
+Cost of new_path :262128
+minPathCost: 12256 currentCost: 262477 newPathCost: 261916
+Cost of new_path :261916
+Cost of new_path :261916
+minPathCost: 12256 currentCost: 262477 newPathCost: 261793
+Cost of new_path :261793
+minPathCost: 12256 currentCost: 262477 newPathCost: 261671
+Cost of new_path :261671
+Cost of new_path :261671
+Cost of new_path :261671
+Cost of new_path :262222
+Cost of new_path :261952
+minPathCost: 12256 currentCost: 261952 newPathCost: 261801
+Cost of new_path :261801
+Cost of new_path :261801
+Cost of new_path :261801
+minPathCost: 12256 currentCost: 261952 newPathCost: 261743
+Cost of new_path :261743
+Cost of new_path :261829
+minPathCost: 12256 currentCost: 261829 newPathCost: 261784
+Cost of new_path :261784
+Cost of new_path :261784
+Cost of new_path :261784
+minPathCost: 12256 currentCost: 261829 newPathCost: 261517
+Cost of new_path :261517
+Cost of new_path :261517
+Cost of new_path :261517
+Cost of new_path :261517
+Cost of new_path :261520
+Cost of new_path :261520
+Cost of new_path :261520
+minPathCost: 12256 currentCost: 261520 newPathCost: 260945
+Cost of new_path :260945
+Cost of new_path :260945
+minPathCost: 12256 currentCost: 261520 newPathCost: 261246
+Cost of new_path :261246
+Cost of new_path :261272
+minPathCost: 12256 currentCost: 261272 newPathCost: 261511
+Cost of new_path :261511
+Cost of new_path :261511
+minPathCost: 12256 currentCost: 261272 newPathCost: 261452
+Cost of new_path :261452
+minPathCost: 12256 currentCost: 261272 newPathCost: 261442
+Cost of new_path :261442
+minPathCost: 12256 currentCost: 261272 newPathCost: 261395
+Cost of new_path :261395
+minPathCost: 12256 currentCost: 261272 newPathCost: 261372
+Cost of new_path :261372
+Cost of new_path :261372
+minPathCost: 12256 currentCost: 261272 newPathCost: 261371
+Cost of new_path :261371
+Cost of new_path :261371
+Cost of new_path :261371
+minPathCost: 12256 currentCost: 261272 newPathCost: 260848
+Cost of new_path :260848
+Cost of new_path :260848
+Cost of new_path :260848
+Cost of new_path :260595
+Cost of new_path :260595
+Cost of new_path :260694
+Cost of new_path :260694
+Cost of new_path :260694
+minPathCost: 12256 currentCost: 260694 newPathCost: 260584
+Cost of new_path :260584
+minPathCost: 12256 currentCost: 260694 newPathCost: 260568
+Cost of new_path :260568
+Cost of new_path :260568
+Cost of new_path :260568
+minPathCost: 12256 currentCost: 260694 newPathCost: 260289
+Cost of new_path :260289
+Cost of new_path :260289
+Cost of new_path :260289
+Cost of new_path :260289
+minPathCost: 12256 currentCost: 260694 newPathCost: 260216
+Cost of new_path :260216
+Cost of new_path :260216
+minPathCost: 12256 currentCost: 260694 newPathCost: 259701
+Cost of new_path :259701
+minPathCost: 12256 currentCost: 260694 newPathCost: 260313
+Cost of new_path :260313
+minPathCost: 12256 currentCost: 260694 newPathCost: 260301
+Cost of new_path :260301
+Cost of new_path :260686
+minPathCost: 12256 currentCost: 260686 newPathCost: 260547
+Cost of new_path :260547
+Cost of new_path :260547
+minPathCost: 12256 currentCost: 260686 newPathCost: 260752
+Cost of new_path :260752
+Cost of new_path :260752
+minPathCost: 12256 currentCost: 260686 newPathCost: 260099
+Cost of new_path :260099
+Cost of new_path :260099
+Cost of new_path :260099
+minPathCost: 12256 currentCost: 260686 newPathCost: 260184
+Cost of new_path :260184
+Cost of new_path :260184
+Cost of new_path :260184
+Cost of new_path :260245
+minPathCost: 12256 currentCost: 260245 newPathCost: 260644
+Cost of new_path :260644
+Cost of new_path :260644
+Cost of new_path :260675
+Cost of new_path :260791
+Cost of new_path :260791
+Cost of new_path :260791
+minPathCost: 12256 currentCost: 260791 newPathCost: 261214
+Cost of new_path :261214
+Cost of new_path :261214
+minPathCost: 12256 currentCost: 260791 newPathCost: 261274
+Cost of new_path :261274
+minPathCost: 12256 currentCost: 260791 newPathCost: 261234
+Cost of new_path :261234
+Cost of new_path :261234
+Cost of new_path :261234
+Cost of new_path :261234
+Cost of new_path :261234
+Cost of new_path :261234
+minPathCost: 12256 currentCost: 260791 newPathCost: 261084
+Cost of new_path :261084
+minPathCost: 12256 currentCost: 260791 newPathCost: 260962
+Cost of new_path :260962
+minPathCost: 12256 currentCost: 260791 newPathCost: 260781
+Cost of new_path :260781
+Cost of new_path :260781
+Cost of new_path :260781
+minPathCost: 12256 currentCost: 260791 newPathCost: 260717
+Cost of new_path :260717
+Cost of new_path :260658
+Cost of new_path :260772
+Cost of new_path :260866
+minPathCost: 12256 currentCost: 260866 newPathCost: 260503
+Cost of new_path :260503
+minPathCost: 12256 currentCost: 260866 newPathCost: 260664
+Cost of new_path :260664
+Cost of new_path :260664
+Cost of new_path :260664
+minPathCost: 12256 currentCost: 260866 newPathCost: 260403
+Cost of new_path :260403
+Cost of new_path :260403
+Cost of new_path :260403
+Cost of new_path :260403
+Cost of new_path :260294
+Cost of new_path :260294
+Cost of new_path :260294
+Cost of new_path :260294
+Cost of new_path :260294
+Cost of new_path :260294
+Cost of new_path :260575
+Cost of new_path :260575
+minPathCost: 12256 currentCost: 260575 newPathCost: 260637
+Cost of new_path :260637
+Cost of new_path :260637
+minPathCost: 12256 currentCost: 260575 newPathCost: 260601
+Cost of new_path :260601
+Cost of new_path :260548
+Cost of new_path :260548
+Cost of new_path :260548
+Cost of new_path :260548
+Cost of new_path :260063
+Cost of new_path :260063
+Cost of new_path :260171
+Cost of new_path :260171
+Cost of new_path :260189
+Cost of new_path :260072
+minPathCost: 12256 currentCost: 260072 newPathCost: 260091
+Cost of new_path :260091
+minPathCost: 12256 currentCost: 260072 newPathCost: 260501
+Cost of new_path :260501
+Cost of new_path :260501
+minPathCost: 12256 currentCost: 260072 newPathCost: 260892
+Cost of new_path :260892
+Cost of new_path :260892
+Cost of new_path :260892
+minPathCost: 12256 currentCost: 260072 newPathCost: 260997
+Cost of new_path :260997
+Cost of new_path :261000
+minPathCost: 12256 currentCost: 261000 newPathCost: 261028
+Cost of new_path :261028
+minPathCost: 12256 currentCost: 261000 newPathCost: 260812
+Cost of new_path :260812
+Cost of new_path :260812
+Cost of new_path :260812
+Cost of new_path :260822
+Cost of new_path :260906
+Cost of new_path :260906
+Cost of new_path :260906
+Cost of new_path :260906
+Cost of new_path :260906
+minPathCost: 12256 currentCost: 260906 newPathCost: 260869
+Cost of new_path :260869
+minPathCost: 12256 currentCost: 260906 newPathCost: 260857
+Cost of new_path :260857
+Cost of new_path :260857
+minPathCost: 12256 currentCost: 260906 newPathCost: 260253
+Cost of new_path :260253
+Cost of new_path :260209
+Cost of new_path :260200
+Cost of new_path :260286
+Cost of new_path :260286
+Cost of new_path :260286
+Cost of new_path :260301
+minPathCost: 12256 currentCost: 260301 newPathCost: 260205
+Cost of new_path :260205
+minPathCost: 12256 currentCost: 260301 newPathCost: 260141
+Cost of new_path :260141
+Cost of new_path :260141
+minPathCost: 12256 currentCost: 260301 newPathCost: 260107
+Cost of new_path :260107
+Cost of new_path :260107
+Cost of new_path :260107
+Cost of new_path :260107
+Cost of new_path :260107
+Cost of new_path :260203
+Cost of new_path :260218
+Cost of new_path :260218
+Cost of new_path :260218
+minPathCost: 12256 currentCost: 260218 newPathCost: 260382
+Cost of new_path :260382
+Cost of new_path :260382
+minPathCost: 12256 currentCost: 260218 newPathCost: 261259
+Cost of new_path :261259
+minPathCost: 12256 currentCost: 260218 newPathCost: 261115
+Cost of new_path :261115
+Cost of new_path :261115
+Cost of new_path :261115
+Cost of new_path :261129
+Cost of new_path :261144
+Cost of new_path :261144
+minPathCost: 12256 currentCost: 261144 newPathCost: 261580
+Cost of new_path :261580
+minPathCost: 12256 currentCost: 261144 newPathCost: 261129
+Cost of new_path :261129
+Cost of new_path :261129
+minPathCost: 12256 currentCost: 261144 newPathCost: 260781
+Cost of new_path :260781
+minPathCost: 12256 currentCost: 261144 newPathCost: 260613
+Cost of new_path :260613
+Cost of new_path :260613
+Cost of new_path :260613
+Cost of new_path :260613
+minPathCost: 12256 currentCost: 261144 newPathCost: 260444
+Cost of new_path :260444
+Cost of new_path :260537
+minPathCost: 12256 currentCost: 260537 newPathCost: 260447
+Cost of new_path :260447
+Cost of new_path :260447
+Cost of new_path :260447
+Cost of new_path :260447
+Cost of new_path :260447
+minPathCost: 12256 currentCost: 260537 newPathCost: 259901
+Cost of new_path :259901
+Cost of new_path :259901
+Cost of new_path :259901
+Cost of new_path :259901
+Cost of new_path :259901
+Cost of new_path :259901
+Cost of new_path :259901
+Cost of new_path :259901
+minPathCost: 12256 currentCost: 260537 newPathCost: 259705
+Cost of new_path :259705
+minPathCost: 12256 currentCost: 260537 newPathCost: 259650
+Cost of new_path :259650
+minPathCost: 12256 currentCost: 260537 newPathCost: 259429
+Cost of new_path :259429
+Cost of new_path :259429
+minPathCost: 12256 currentCost: 260537 newPathCost: 259350
+Cost of new_path :259350
+Cost of new_path :259350
+minPathCost: 12256 currentCost: 260537 newPathCost: 259088
+Cost of new_path :259088
+minPathCost: 12256 currentCost: 260537 newPathCost: 258672
+Cost of new_path :258672
+minPathCost: 12256 currentCost: 260537 newPathCost: 258512
+Cost of new_path :258512
+Cost of new_path :258512
+Cost of new_path :258512
+minPathCost: 12256 currentCost: 260537 newPathCost: 258870
+Cost of new_path :258870
+Cost of new_path :258870
+minPathCost: 12256 currentCost: 260537 newPathCost: 258716
+Cost of new_path :258716
+minPathCost: 12256 currentCost: 260537 newPathCost: 258677
+Cost of new_path :258677
+Cost of new_path :258677
+Cost of new_path :258677
+Cost of new_path :258659
+minPathCost: 12256 currentCost: 258659 newPathCost: 258844
+Cost of new_path :258844
+minPathCost: 12256 currentCost: 258659 newPathCost: 258739
+Cost of new_path :258739
+Cost of new_path :258739
+minPathCost: 12256 currentCost: 258659 newPathCost: 258398
+Cost of new_path :258398
+Cost of new_path :258398
+Cost of new_path :258398
+Cost of new_path :258451
+Cost of new_path :258451
+Cost of new_path :258451
+minPathCost: 12256 currentCost: 258451 newPathCost: 258293
+Cost of new_path :258293
+minPathCost: 12256 currentCost: 258451 newPathCost: 258223
+Cost of new_path :258223
+minPathCost: 12256 currentCost: 258451 newPathCost: 258168
+Cost of new_path :258168
+Cost of new_path :258168
+Cost of new_path :258168
+Cost of new_path :258168
+minPathCost: 12256 currentCost: 258451 newPathCost: 258057
+Cost of new_path :258057
+minPathCost: 12256 currentCost: 258451 newPathCost: 257827
+Cost of new_path :257827
+Cost of new_path :257827
+Cost of new_path :257827
+minPathCost: 12256 currentCost: 258451 newPathCost: 257283
+Cost of new_path :257283
+Cost of new_path :257319
+Cost of new_path :257319
+Cost of new_path :257319
+Cost of new_path :257319
+minPathCost: 12256 currentCost: 257319 newPathCost: 257303
+Cost of new_path :257303
+Cost of new_path :257303
+Cost of new_path :257303
+minPathCost: 12256 currentCost: 257319 newPathCost: 257136
+Cost of new_path :257136
+Cost of new_path :257136
+Cost of new_path :257136
+minPathCost: 12256 currentCost: 257319 newPathCost: 256893
+Cost of new_path :256893
+Cost of new_path :256893
+Cost of new_path :256893
+Cost of new_path :256893
+Cost of new_path :256893
+minPathCost: 12256 currentCost: 257319 newPathCost: 256952
+Cost of new_path :256952
+minPathCost: 12256 currentCost: 257319 newPathCost: 256687
+Cost of new_path :256687
+minPathCost: 12256 currentCost: 257319 newPathCost: 255985
+Cost of new_path :255985
+minPathCost: 12256 currentCost: 257319 newPathCost: 256361
+Cost of new_path :256361
+Cost of new_path :256361
+Cost of new_path :256361
+minPathCost: 12256 currentCost: 257319 newPathCost: 256377
+Cost of new_path :256377
+minPathCost: 12256 currentCost: 257319 newPathCost: 256366
+Cost of new_path :256366
+Cost of new_path :256366
+Cost of new_path :256241
+Cost of new_path :256241
+minPathCost: 12256 currentCost: 256241 newPathCost: 255744
+Cost of new_path :255744
+minPathCost: 12256 currentCost: 256241 newPathCost: 255322
+Cost of new_path :255322
+Cost of new_path :255322
+Cost of new_path :255322
+Cost of new_path :255322
+Cost of new_path :255322
+minPathCost: 12256 currentCost: 256241 newPathCost: 255155
+Cost of new_path :255155
+Cost of new_path :255155
+minPathCost: 12256 currentCost: 256241 newPathCost: 255725
+Cost of new_path :255725
+Cost of new_path :255725
+minPathCost: 12256 currentCost: 256241 newPathCost: 255702
+Cost of new_path :255702
+Cost of new_path :255702
+minPathCost: 12256 currentCost: 256241 newPathCost: 255688
+Cost of new_path :255688
+Cost of new_path :255688
+minPathCost: 12256 currentCost: 256241 newPathCost: 255434
+Cost of new_path :255434
+Cost of new_path :255434
+minPathCost: 12256 currentCost: 256241 newPathCost: 255032
+Cost of new_path :255032
+Cost of new_path :255173
+minPathCost: 12256 currentCost: 255173 newPathCost: 254987
+Cost of new_path :254987
+Cost of new_path :254987
+Cost of new_path :254987
+minPathCost: 12256 currentCost: 255173 newPathCost: 254934
+Cost of new_path :254934
+Cost of new_path :254934
+Cost of new_path :254934
+minPathCost: 12256 currentCost: 255173 newPathCost: 255156
+Cost of new_path :255156
+minPathCost: 12256 currentCost: 255173 newPathCost: 255060
+Cost of new_path :255060
+Cost of new_path :255060
+minPathCost: 12256 currentCost: 255173 newPathCost: 255323
+Cost of new_path :255323
+minPathCost: 12256 currentCost: 255173 newPathCost: 255658
+Cost of new_path :255658
+Cost of new_path :255658
+Cost of new_path :255658
+minPathCost: 12256 currentCost: 255173 newPathCost: 255091
+Cost of new_path :255091
+Cost of new_path :255091
+Cost of new_path :255031
+minPathCost: 12256 currentCost: 255031 newPathCost: 254907
+Cost of new_path :254907
+minPathCost: 12256 currentCost: 255031 newPathCost: 254733
+Cost of new_path :254733
+Cost of new_path :254733
+Cost of new_path :254733
+Cost of new_path :254733
+minPathCost: 12256 currentCost: 255031 newPathCost: 254323
+Cost of new_path :254323
+Cost of new_path :254354
+Cost of new_path :254354
+minPathCost: 12256 currentCost: 254354 newPathCost: 253971
+Cost of new_path :253971
+Cost of new_path :253971
+Cost of new_path :253971
+Cost of new_path :253971
+minPathCost: 12256 currentCost: 254354 newPathCost: 254423
+Cost of new_path :254423
+Cost of new_path :254368
+minPathCost: 12256 currentCost: 254368 newPathCost: 254407
+Cost of new_path :254407
+Cost of new_path :254407
+Cost of new_path :254407
+Cost of new_path :254407
+minPathCost: 12256 currentCost: 254368 newPathCost: 254149
+Cost of new_path :254149
+Cost of new_path :254149
+minPathCost: 12256 currentCost: 254368 newPathCost: 254100
+Cost of new_path :254100
+Cost of new_path :254100
+minPathCost: 12256 currentCost: 254368 newPathCost: 254332
+Cost of new_path :254332
+Cost of new_path :254332
+minPathCost: 12256 currentCost: 254368 newPathCost: 254433
+Cost of new_path :254433
+Cost of new_path :254433
+minPathCost: 12256 currentCost: 254368 newPathCost: 254235
+Cost of new_path :254235
+Cost of new_path :254235
+Cost of new_path :254235
+Cost of new_path :254259
+Cost of new_path :254259
+Cost of new_path :254259
+Cost of new_path :254259
+minPathCost: 12256 currentCost: 254259 newPathCost: 254100
+Cost of new_path :254100
+Cost of new_path :254135
+Cost of new_path :254135
+Cost of new_path :254135
+Cost of new_path :254135
+Cost of new_path :254171
+minPathCost: 12256 currentCost: 254171 newPathCost: 254096
+Cost of new_path :254096
+Cost of new_path :254096
+minPathCost: 12256 currentCost: 254171 newPathCost: 253990
+Cost of new_path :253990
+minPathCost: 12256 currentCost: 254171 newPathCost: 254290
+Cost of new_path :254290
+Cost of new_path :254290
+minPathCost: 12256 currentCost: 254171 newPathCost: 254387
+Cost of new_path :254387
+minPathCost: 12256 currentCost: 254171 newPathCost: 254371
+Cost of new_path :254371
+Cost of new_path :254371
+Cost of new_path :254371
+minPathCost: 12256 currentCost: 254171 newPathCost: 254314
+Cost of new_path :254314
+minPathCost: 12256 currentCost: 254171 newPathCost: 254308
+Cost of new_path :254308
+minPathCost: 12256 currentCost: 254171 newPathCost: 254240
+Cost of new_path :254240
+Cost of new_path :254240
+minPathCost: 12256 currentCost: 254171 newPathCost: 254051
+Cost of new_path :254051
+Cost of new_path :254051
+Cost of new_path :254051
+minPathCost: 12256 currentCost: 254171 newPathCost: 253914
+Cost of new_path :253914
+Cost of new_path :253914
+minPathCost: 12256 currentCost: 254171 newPathCost: 253669
+Cost of new_path :253669
+Cost of new_path :253669
+Cost of new_path :253669
+Cost of new_path :253669
+Cost of new_path :253669
+Cost of new_path :253669
+Cost of new_path :253669
+Cost of new_path :253671
+Cost of new_path :253671
+Cost of new_path :253671
+Cost of new_path :253671
+minPathCost: 12256 currentCost: 253671 newPathCost: 253643
+Cost of new_path :253643
+minPathCost: 12256 currentCost: 253671 newPathCost: 253914
+Cost of new_path :253914
+Cost of new_path :253914
+Cost of new_path :253914
+Cost of new_path :253914
+minPathCost: 12256 currentCost: 253671 newPathCost: 253828
+Cost of new_path :253828
+Cost of new_path :253828
+Cost of new_path :253828
+Cost of new_path :253828
+minPathCost: 12256 currentCost: 253671 newPathCost: 253801
+Cost of new_path :253801
+Cost of new_path :253801
+Cost of new_path :253801
+minPathCost: 12256 currentCost: 253671 newPathCost: 253689
+Cost of new_path :253689
+Cost of new_path :253689
+Cost of new_path :253689
+minPathCost: 12256 currentCost: 253671 newPathCost: 253862
+Cost of new_path :253862
+minPathCost: 12256 currentCost: 253671 newPathCost: 254008
+Cost of new_path :254008
+minPathCost: 12256 currentCost: 253671 newPathCost: 254151
+Cost of new_path :254151
+minPathCost: 12256 currentCost: 253671 newPathCost: 254426
+Cost of new_path :254426
+Cost of new_path :254426
+Cost of new_path :254426
+Cost of new_path :254450
+Cost of new_path :254450
+minPathCost: 12256 currentCost: 254450 newPathCost: 254873
+Cost of new_path :254873
+Cost of new_path :254873
+Cost of new_path :254779
+Cost of new_path :254779
+minPathCost: 12256 currentCost: 254779 newPathCost: 254752
+Cost of new_path :254752
+minPathCost: 12256 currentCost: 254779 newPathCost: 255413
+Cost of new_path :255413
+Cost of new_path :255413
+minPathCost: 12256 currentCost: 254779 newPathCost: 254727
+Cost of new_path :254727
+Cost of new_path :254727
+Cost of new_path :254727
+Cost of new_path :254727
+Cost of new_path :254727
+Cost of new_path :254727
+Cost of new_path :254715
+minPathCost: 12256 currentCost: 254715 newPathCost: 255106
+Cost of new_path :255106
+minPathCost: 12256 currentCost: 254715 newPathCost: 254700
+Cost of new_path :254700
+Cost of new_path :254700
+Cost of new_path :254700
+Cost of new_path :254700
+Cost of new_path :254700
+Cost of new_path :254700
+minPathCost: 12256 currentCost: 254715 newPathCost: 255526
+Cost of new_path :255526
+minPathCost: 12256 currentCost: 254715 newPathCost: 255508
+Cost of new_path :255508
+minPathCost: 12256 currentCost: 254715 newPathCost: 255418
+Cost of new_path :255418
+Cost of new_path :255418
+Cost of new_path :255418
+minPathCost: 12256 currentCost: 254715 newPathCost: 255412
+Cost of new_path :255412
+Cost of new_path :255412
+Cost of new_path :255532
+Cost of new_path :255532
+minPathCost: 12256 currentCost: 255532 newPathCost: 255342
+Cost of new_path :255342
+minPathCost: 12256 currentCost: 255532 newPathCost: 255270
+Cost of new_path :255270
+Cost of new_path :255270
+Cost of new_path :255270
+Cost of new_path :255270
+minPathCost: 12256 currentCost: 255532 newPathCost: 255034
+Cost of new_path :255034
+Cost of new_path :255034
+Cost of new_path :255034
+minPathCost: 12256 currentCost: 255532 newPathCost: 255141
+Cost of new_path :255141
+Cost of new_path :255141
+Cost of new_path :255141
+Cost of new_path :255149
+Cost of new_path :255149
+minPathCost: 12256 currentCost: 255149 newPathCost: 255140
+Cost of new_path :255140
+Cost of new_path :255140
+Cost of new_path :255140
+Cost of new_path :255140
+Cost of new_path :255140
+Cost of new_path :255145
+minPathCost: 12256 currentCost: 255145 newPathCost: 255164
+Cost of new_path :255164
+Cost of new_path :255164
+Cost of new_path :255164
+minPathCost: 12256 currentCost: 255145 newPathCost: 256152
+Cost of new_path :256152
+Cost of new_path :256224
+Cost of new_path :256224
+minPathCost: 12256 currentCost: 256224 newPathCost: 256015
+Cost of new_path :256015
+minPathCost: 12256 currentCost: 256224 newPathCost: 256008
+Cost of new_path :256008
+Cost of new_path :256008
+Cost of new_path :256008
+minPathCost: 12256 currentCost: 256224 newPathCost: 256475
+Cost of new_path :256475
+minPathCost: 12256 currentCost: 256224 newPathCost: 256621
+Cost of new_path :256621
+Cost of new_path :256621
+minPathCost: 12256 currentCost: 256224 newPathCost: 256343
+Cost of new_path :256343
+Cost of new_path :256343
+Cost of new_path :256343
+Cost of new_path :256343
+Cost of new_path :256343
+minPathCost: 12256 currentCost: 256224 newPathCost: 256338
+Cost of new_path :256338
+Cost of new_path :256338
+Cost of new_path :256338
+Cost of new_path :256338
+Cost of new_path :256338
+Cost of new_path :256338
+Cost of new_path :256338
+Cost of new_path :256338
+Cost of new_path :256338
+minPathCost: 12256 currentCost: 256224 newPathCost: 256178
+Cost of new_path :256178
+Cost of new_path :256178
+minPathCost: 12256 currentCost: 256224 newPathCost: 256056
+Cost of new_path :256056
+minPathCost: 12256 currentCost: 256224 newPathCost: 256047
+Cost of new_path :256047
+Cost of new_path :256047
+minPathCost: 12256 currentCost: 256224 newPathCost: 256232
+Cost of new_path :256232
+Cost of new_path :256235
+minPathCost: 12256 currentCost: 256235 newPathCost: 256309
+Cost of new_path :256309
+Cost of new_path :256398
+Cost of new_path :256398
+Cost of new_path :256401
+minPathCost: 12256 currentCost: 256401 newPathCost: 256392
+Cost of new_path :256392
+minPathCost: 12256 currentCost: 256401 newPathCost: 256285
+Cost of new_path :256285
+Cost of new_path :256285
+Cost of new_path :256285
+Cost of new_path :256285
+Cost of new_path :256285
+minPathCost: 12256 currentCost: 256401 newPathCost: 256291
+Cost of new_path :256291
+minPathCost: 12256 currentCost: 256401 newPathCost: 256069
+Cost of new_path :256069
+minPathCost: 12256 currentCost: 256401 newPathCost: 255592
+Cost of new_path :255592
+Cost of new_path :255592
+Cost of new_path :255592
+Cost of new_path :255592
+Cost of new_path :255592
+minPathCost: 12256 currentCost: 256401 newPathCost: 255655
+Cost of new_path :255655
+minPathCost: 12256 currentCost: 256401 newPathCost: 255581
+Cost of new_path :255581
+minPathCost: 12256 currentCost: 256401 newPathCost: 255392
+Cost of new_path :255392
+minPathCost: 12256 currentCost: 256401 newPathCost: 255161
+Cost of new_path :255161
+minPathCost: 12256 currentCost: 256401 newPathCost: 255258
+Cost of new_path :255258
+Cost of new_path :255258
+Cost of new_path :255258
+Cost of new_path :255258
+Cost of new_path :255258
+Cost of new_path :255258
+Cost of new_path :255258
+Cost of new_path :255258
+minPathCost: 12256 currentCost: 256401 newPathCost: 255185
+Cost of new_path :255185
+Cost of new_path :255185
+Cost of new_path :255185
+Cost of new_path :255185
+Cost of new_path :255211
+Cost of new_path :255211
+minPathCost: 12256 currentCost: 255211 newPathCost: 255002
+Cost of new_path :255002
+Cost of new_path :255002
+Cost of new_path :255009
+Cost of new_path :255009
+Cost of new_path :255009
+minPathCost: 12256 currentCost: 255009 newPathCost: 254566
+Cost of new_path :254566
+Cost of new_path :254566
+Cost of new_path :254566
+minPathCost: 12256 currentCost: 255009 newPathCost: 254279
+Cost of new_path :254279
+Cost of new_path :254279
+Cost of new_path :254279
+minPathCost: 12256 currentCost: 255009 newPathCost: 254286
+Cost of new_path :254286
+minPathCost: 12256 currentCost: 255009 newPathCost: 254182
+Cost of new_path :254182
+Cost of new_path :254164
+Cost of new_path :254164
+Cost of new_path :254164
+Cost of new_path :254164
+Cost of new_path :254164
+minPathCost: 12256 currentCost: 254164 newPathCost: 253457
+Cost of new_path :253457
+Cost of new_path :253795
+Cost of new_path :253795
+Cost of new_path :253795
+Cost of new_path :253795
+Cost of new_path :254623
+minPathCost: 12256 currentCost: 254623 newPathCost: 254883
+Cost of new_path :254883
+Cost of new_path :254883
+Cost of new_path :254883
+minPathCost: 12256 currentCost: 254623 newPathCost: 255230
+Cost of new_path :255230
+Cost of new_path :255198
+Cost of new_path :255198
+Cost of new_path :255198
+Cost of new_path :255198
+Cost of new_path :255198
+Cost of new_path :255198
+Cost of new_path :255240
+minPathCost: 12256 currentCost: 255240 newPathCost: 255094
+Cost of new_path :255094
+Cost of new_path :255094
+minPathCost: 12256 currentCost: 255240 newPathCost: 254643
+Cost of new_path :254643
+minPathCost: 12256 currentCost: 255240 newPathCost: 255096
+Cost of new_path :255096
+Cost of new_path :255096
+Cost of new_path :255096
+Cost of new_path :255096
+minPathCost: 12256 currentCost: 255240 newPathCost: 255332
+Cost of new_path :255332
+minPathCost: 12256 currentCost: 255240 newPathCost: 255230
+Cost of new_path :255230
+Cost of new_path :255236
+Cost of new_path :255236
+Cost of new_path :255236
+Cost of new_path :255236
+Cost of new_path :255236
+Cost of new_path :255236
+Cost of new_path :255236
+Cost of new_path :255236
+Cost of new_path :255236
+Cost of new_path :255236
+Cost of new_path :255236
+minPathCost: 12256 currentCost: 255236 newPathCost: 255154
+Cost of new_path :255154
+minPathCost: 12256 currentCost: 255236 newPathCost: 255241
+Cost of new_path :255241
+minPathCost: 12256 currentCost: 255236 newPathCost: 255218
+Cost of new_path :255218
+Cost of new_path :255218
+Cost of new_path :255218
+Cost of new_path :255218
+minPathCost: 12256 currentCost: 255236 newPathCost: 254908
+Cost of new_path :254908
+minPathCost: 12256 currentCost: 255236 newPathCost: 254663
+Cost of new_path :254663
+Cost of new_path :254667
+Cost of new_path :254667
+Cost of new_path :254667
+Cost of new_path :254667
+minPathCost: 12256 currentCost: 254667 newPathCost: 254588
+Cost of new_path :254588
+Cost of new_path :255046
+minPathCost: 12256 currentCost: 255046 newPathCost: 254862
+Cost of new_path :254862
+minPathCost: 12256 currentCost: 255046 newPathCost: 254762
+Cost of new_path :254762
+minPathCost: 12256 currentCost: 255046 newPathCost: 254631
+Cost of new_path :254631
+Cost of new_path :254631
+minPathCost: 12256 currentCost: 255046 newPathCost: 254609
+Cost of new_path :254609
+Cost of new_path :254609
+Cost of new_path :254609
+Cost of new_path :254609
+Cost of new_path :254609
+minPathCost: 12256 currentCost: 255046 newPathCost: 254964
+Cost of new_path :254964
+Cost of new_path :254964
+minPathCost: 12256 currentCost: 255046 newPathCost: 255122
+Cost of new_path :255122
+Cost of new_path :255115
+minPathCost: 12256 currentCost: 255115 newPathCost: 255037
+Cost of new_path :255037
+Cost of new_path :255037
+Cost of new_path :255037
+Cost of new_path :255037
+minPathCost: 12256 currentCost: 255115 newPathCost: 254868
+Cost of new_path :254868
+Cost of new_path :254868
+Cost of new_path :254868
+minPathCost: 12256 currentCost: 255115 newPathCost: 254676
+Cost of new_path :254676
+Cost of new_path :254676
+Cost of new_path :254676
+Cost of new_path :254676
+minPathCost: 12256 currentCost: 255115 newPathCost: 254632
+Cost of new_path :254632
+Cost of new_path :254632
+minPathCost: 12256 currentCost: 255115 newPathCost: 254607
+Cost of new_path :254607
+minPathCost: 12256 currentCost: 255115 newPathCost: 254576
+Cost of new_path :254576
+Cost of new_path :254576
+Cost of new_path :254582
+Cost of new_path :254582
+Cost of new_path :254582
+minPathCost: 12256 currentCost: 254582 newPathCost: 254237
+Cost of new_path :254237
+Cost of new_path :254237
+Cost of new_path :254237
+Cost of new_path :254237
+minPathCost: 12256 currentCost: 254582 newPathCost: 254310
+Cost of new_path :254310
+Cost of new_path :254310
+Cost of new_path :254310
+minPathCost: 12256 currentCost: 254582 newPathCost: 254232
+Cost of new_path :254232
+Cost of new_path :254232
+Cost of new_path :254232
+minPathCost: 12256 currentCost: 254582 newPathCost: 253963
+Cost of new_path :253963
+minPathCost: 12256 currentCost: 254582 newPathCost: 253837
+Cost of new_path :253837
+minPathCost: 12256 currentCost: 254582 newPathCost: 253823
+Cost of new_path :253823
+Cost of new_path :253833
+Cost of new_path :253833
+minPathCost: 12256 currentCost: 253833 newPathCost: 253824
+Cost of new_path :253824
+minPathCost: 12256 currentCost: 253833 newPathCost: 253846
+Cost of new_path :253846
+Cost of new_path :253846
+Cost of new_path :253846
+minPathCost: 12256 currentCost: 253833 newPathCost: 253807
+Cost of new_path :253807
+minPathCost: 12256 currentCost: 253833 newPathCost: 253943
+Cost of new_path :253943
+Cost of new_path :253943
+Cost of new_path :253943
+minPathCost: 12256 currentCost: 253833 newPathCost: 254422
+Cost of new_path :254422
+Cost of new_path :254422
+Cost of new_path :254422
+Cost of new_path :254422
+minPathCost: 12256 currentCost: 253833 newPathCost: 254365
+Cost of new_path :254365
+Cost of new_path :254365
+Cost of new_path :254365
+minPathCost: 12256 currentCost: 253833 newPathCost: 253856
+Cost of new_path :253856
+Cost of new_path :253856
+Cost of new_path :253856
+minPathCost: 12256 currentCost: 253833 newPathCost: 253813
+Cost of new_path :253813
+Cost of new_path :253813
+Cost of new_path :253813
+Cost of new_path :253813
+Cost of new_path :253813
+Cost of new_path :253813
+minPathCost: 12256 currentCost: 253833 newPathCost: 253619
+Cost of new_path :253619
+Cost of new_path :253619
+minPathCost: 12256 currentCost: 253833 newPathCost: 253466
+Cost of new_path :253466
+Cost of new_path :253466
+minPathCost: 12256 currentCost: 253833 newPathCost: 253189
+Cost of new_path :253189
+Cost of new_path :253193
+Cost of new_path :253193
+minPathCost: 12256 currentCost: 253193 newPathCost: 253314
+Cost of new_path :253314
+Cost of new_path :253314
+Cost of new_path :253314
+minPathCost: 12256 currentCost: 253193 newPathCost: 253445
+Cost of new_path :253445
+Cost of new_path :253445
+Cost of new_path :253445
+Cost of new_path :253445
+Cost of new_path :253445
+Cost of new_path :253445
+Cost of new_path :253445
+minPathCost: 12256 currentCost: 253193 newPathCost: 253367
+Cost of new_path :253367
+Cost of new_path :253790
+Cost of new_path :254423
+Cost of new_path :254423
+minPathCost: 12256 currentCost: 254423 newPathCost: 254285
+Cost of new_path :254285
+Cost of new_path :254285
+minPathCost: 12256 currentCost: 254423 newPathCost: 254961
+Cost of new_path :254961
+Cost of new_path :254961
+Cost of new_path :254961
+Cost of new_path :254961
+Cost of new_path :254961
+Cost of new_path :254961
+Cost of new_path :254961
+minPathCost: 12256 currentCost: 254423 newPathCost: 255587
+Cost of new_path :255587
+minPathCost: 12256 currentCost: 254423 newPathCost: 255400
+Cost of new_path :255400
+minPathCost: 12256 currentCost: 254423 newPathCost: 255367
+Cost of new_path :255367
+minPathCost: 12256 currentCost: 254423 newPathCost: 255337
+Cost of new_path :255337
+Cost of new_path :255337
+minPathCost: 12256 currentCost: 254423 newPathCost: 255311
+Cost of new_path :255311
+Cost of new_path :255311
+Cost of new_path :255311
+Cost of new_path :255311
+Cost of new_path :255311
+minPathCost: 12256 currentCost: 254423 newPathCost: 254853
+Cost of new_path :254853
+minPathCost: 12256 currentCost: 254423 newPathCost: 254864
+Cost of new_path :254864
+minPathCost: 12256 currentCost: 254423 newPathCost: 254862
+Cost of new_path :254862
+Cost of new_path :254862
+Cost of new_path :254862
+minPathCost: 12256 currentCost: 254423 newPathCost: 254916
+Cost of new_path :254916
+Cost of new_path :254916
+Cost of new_path :254916
+minPathCost: 12256 currentCost: 254423 newPathCost: 254932
+Cost of new_path :254932
+Cost of new_path :254932
+Cost of new_path :254932
+minPathCost: 12256 currentCost: 254423 newPathCost: 254720
+Cost of new_path :254720
+Cost of new_path :254720
+minPathCost: 12256 currentCost: 254423 newPathCost: 255254
+Cost of new_path :255254
+minPathCost: 12256 currentCost: 254423 newPathCost: 255238
+Cost of new_path :255238
+Cost of new_path :255238
+minPathCost: 12256 currentCost: 255238 newPathCost: 255217
+Cost of new_path :255217
+Cost of new_path :255217
+minPathCost: 12256 currentCost: 255238 newPathCost: 255214
+Cost of new_path :255214
+minPathCost: 12256 currentCost: 255238 newPathCost: 255040
+Cost of new_path :255040
+Cost of new_path :255040
+minPathCost: 12256 currentCost: 255238 newPathCost: 254716
+Cost of new_path :254716
+Cost of new_path :254716
+Cost of new_path :254716
+Cost of new_path :254716
+Cost of new_path :254716
+minPathCost: 12256 currentCost: 255238 newPathCost: 254924
+Cost of new_path :254924
+Cost of new_path :254924
+Cost of new_path :254924
+minPathCost: 12256 currentCost: 255238 newPathCost: 254790
+Cost of new_path :254790
+Cost of new_path :254790
+Cost of new_path :254790
+Cost of new_path :254790
+Cost of new_path :254790
+minPathCost: 12256 currentCost: 255238 newPathCost: 254824
+Cost of new_path :254824
+Cost of new_path :254824
+Cost of new_path :254472
+Cost of new_path :254472
+Cost of new_path :254472
+Cost of new_path :254472
+Cost of new_path :254472
+minPathCost: 12256 currentCost: 254472 newPathCost: 254197
+Cost of new_path :254197
+Cost of new_path :254197
+Cost of new_path :254197
+Cost of new_path :254197
+Cost of new_path :254197
+Cost of new_path :254197
+Cost of new_path :254197
+Cost of new_path :254197
+minPathCost: 12256 currentCost: 254472 newPathCost: 254277
+Cost of new_path :254277
+Cost of new_path :254277
+Cost of new_path :254277
+Cost of new_path :254277
+minPathCost: 12256 currentCost: 254472 newPathCost: 254064
+Cost of new_path :254064
+minPathCost: 12256 currentCost: 254472 newPathCost: 254032
+Cost of new_path :254032
+minPathCost: 12256 currentCost: 254472 newPathCost: 253879
+Cost of new_path :253879
+Cost of new_path :253879
+Cost of new_path :253879
+Cost of new_path :253879
+minPathCost: 12256 currentCost: 254472 newPathCost: 253371
+Cost of new_path :253371
+Cost of new_path :253371
+minPathCost: 12256 currentCost: 254472 newPathCost: 254411
+Cost of new_path :254411
+Cost of new_path :254411
+minPathCost: 12256 currentCost: 254472 newPathCost: 254075
+Cost of new_path :254075
+minPathCost: 12256 currentCost: 254472 newPathCost: 254050
+Cost of new_path :254050
+minPathCost: 12256 currentCost: 254472 newPathCost: 254119
+Cost of new_path :254119
+minPathCost: 12256 currentCost: 254472 newPathCost: 254141
+Cost of new_path :254141
+Cost of new_path :254141
+Cost of new_path :254141
+Cost of new_path :254141
+Cost of new_path :254148
+Cost of new_path :254148
+minPathCost: 12256 currentCost: 254148 newPathCost: 254144
+Cost of new_path :254144
+Cost of new_path :254144
+Cost of new_path :254144
+minPathCost: 12256 currentCost: 254148 newPathCost: 254011
+Cost of new_path :254011
+Cost of new_path :254011
+minPathCost: 12256 currentCost: 254148 newPathCost: 253223
+Cost of new_path :253223
+minPathCost: 12256 currentCost: 254148 newPathCost: 253221
+Cost of new_path :253221
+Cost of new_path :253221
+Cost of new_path :253221
+minPathCost: 12256 currentCost: 254148 newPathCost: 253526
+Cost of new_path :253526
+minPathCost: 12256 currentCost: 254148 newPathCost: 253568
+Cost of new_path :253568
+minPathCost: 12256 currentCost: 254148 newPathCost: 253572
+Cost of new_path :253572
+minPathCost: 12256 currentCost: 254148 newPathCost: 253715
+Cost of new_path :253715
+Cost of new_path :253715
+minPathCost: 12256 currentCost: 254148 newPathCost: 253695
+Cost of new_path :253695
+Cost of new_path :253695
+Cost of new_path :253695
+minPathCost: 12256 currentCost: 254148 newPathCost: 253503
+Cost of new_path :253503
+Cost of new_path :253503
+minPathCost: 12256 currentCost: 254148 newPathCost: 253539
+Cost of new_path :253539
+Cost of new_path :253539
+Cost of new_path :253539
+Cost of new_path :253539
+Cost of new_path :253539
+Cost of new_path :253539
+Cost of new_path :253539
+minPathCost: 12256 currentCost: 254148 newPathCost: 253462
+Cost of new_path :253462
+minPathCost: 12256 currentCost: 254148 newPathCost: 253124
+Cost of new_path :253124
+minPathCost: 12256 currentCost: 254148 newPathCost: 253334
+Cost of new_path :253334
+Cost of new_path :253334
+minPathCost: 12256 currentCost: 254148 newPathCost: 253244
+Cost of new_path :253244
+Cost of new_path :253244
+Cost of new_path :253244
+Cost of new_path :253244
+minPathCost: 12256 currentCost: 254148 newPathCost: 253162
+Cost of new_path :253162
+Cost of new_path :253162
+minPathCost: 12256 currentCost: 254148 newPathCost: 253150
+Cost of new_path :253150
+Cost of new_path :253150
+Cost of new_path :253150
+Cost of new_path :253150
+minPathCost: 12256 currentCost: 254148 newPathCost: 253054
+Cost of new_path :253054
+Cost of new_path :253054
+Cost of new_path :253054
+Cost of new_path :253054
+Cost of new_path :253054
+minPathCost: 12256 currentCost: 254148 newPathCost: 253034
+Cost of new_path :253034
+minPathCost: 12256 currentCost: 254148 newPathCost: 253086
+Cost of new_path :253086
+minPathCost: 12256 currentCost: 254148 newPathCost: 252909
+Cost of new_path :252909
+Cost of new_path :252909
+Cost of new_path :252909
+Cost of new_path :252909
+Cost of new_path :252909
+minPathCost: 12256 currentCost: 254148 newPathCost: 252876
+Cost of new_path :252876
+Cost of new_path :252876
+Cost of new_path :252876
+Cost of new_path :252876
+Cost of new_path :252876
+Cost of new_path :252876
+Cost of new_path :252876
+minPathCost: 12256 currentCost: 254148 newPathCost: 253607
+Cost of new_path :253607
+minPathCost: 12256 currentCost: 254148 newPathCost: 253372
+Cost of new_path :253372
+minPathCost: 12256 currentCost: 254148 newPathCost: 253263
+Cost of new_path :253263
+Cost of new_path :253263
+Cost of new_path :253263
+minPathCost: 12256 currentCost: 254148 newPathCost: 253081
+Cost of new_path :253081
+minPathCost: 12256 currentCost: 254148 newPathCost: 252809
+Cost of new_path :252809
+Cost of new_path :252809
+minPathCost: 12256 currentCost: 254148 newPathCost: 252926
+Cost of new_path :252926
+minPathCost: 12256 currentCost: 254148 newPathCost: 252903
+Cost of new_path :252903
+minPathCost: 12256 currentCost: 254148 newPathCost: 252264
+Cost of new_path :252264
+Cost of new_path :252264
+Cost of new_path :252264
+minPathCost: 12256 currentCost: 254148 newPathCost: 252287
+Cost of new_path :252287
+Cost of new_path :252287
+minPathCost: 12256 currentCost: 254148 newPathCost: 252223
+Cost of new_path :252223
+Cost of new_path :252223
+Cost of new_path :252223
+Cost of new_path :252223
+Cost of new_path :252223
+minPathCost: 12256 currentCost: 254148 newPathCost: 252038
+Cost of new_path :252038
+Cost of new_path :252038
+minPathCost: 12256 currentCost: 252038 newPathCost: 252105
+Cost of new_path :252105
+Cost of new_path :252105
+Cost of new_path :252105
+Cost of new_path :252105
+Cost of new_path :252105
+Cost of new_path :252105
+Cost of new_path :252105
+Cost of new_path :252105
+Cost of new_path :252105
+Cost of new_path :252105
+Cost of new_path :252105
+Cost of new_path :252105
+Cost of new_path :252105
+Cost of new_path :252105
+minPathCost: 12256 currentCost: 252038 newPathCost: 252100
+Cost of new_path :252100
+minPathCost: 12256 currentCost: 252038 newPathCost: 252071
+Cost of new_path :252071
+Cost of new_path :252071
+minPathCost: 12256 currentCost: 252038 newPathCost: 251836
+Cost of new_path :251836
+minPathCost: 12256 currentCost: 252038 newPathCost: 251986
+Cost of new_path :251986
+Cost of new_path :251986
+Cost of new_path :251986
+Cost of new_path :251986
+Cost of new_path :251986
+Cost of new_path :251986
+Cost of new_path :251986
+Cost of new_path :251986
+Cost of new_path :251986
+Cost of new_path :251986
+Cost of new_path :251986
+minPathCost: 12256 currentCost: 251986 newPathCost: 251238
+Cost of new_path :251238
+Cost of new_path :251238
+Cost of new_path :251238
+minPathCost: 12256 currentCost: 251986 newPathCost: 250786
+Cost of new_path :250786
+Cost of new_path :250786
+minPathCost: 12256 currentCost: 251986 newPathCost: 250689
+Cost of new_path :250689
+Cost of new_path :250689
+Cost of new_path :250689
+Cost of new_path :250689
+minPathCost: 12256 currentCost: 251986 newPathCost: 250528
+Cost of new_path :250528
+Cost of new_path :250528
+Cost of new_path :250528
+Cost of new_path :250528
+minPathCost: 12256 currentCost: 251986 newPathCost: 250681
+Cost of new_path :250681
+Cost of new_path :250681
+Cost of new_path :250681
+Cost of new_path :250681
+Cost of new_path :250681
+minPathCost: 12256 currentCost: 251986 newPathCost: 250057
+Cost of new_path :250057
+Cost of new_path :250057
+Cost of new_path :250057
+minPathCost: 12256 currentCost: 251986 newPathCost: 250181
+Cost of new_path :250181
+Cost of new_path :250181
+Cost of new_path :250181
+Cost of new_path :250181
+Cost of new_path :250181
+Cost of new_path :250181
+Cost of new_path :250181
+minPathCost: 12256 currentCost: 251986 newPathCost: 249643
+Cost of new_path :249643
+Cost of new_path :249643
+Cost of new_path :249643
+Cost of new_path :249643
+Cost of new_path :249643
+minPathCost: 12256 currentCost: 251986 newPathCost: 249689
+Cost of new_path :249689
+minPathCost: 12256 currentCost: 251986 newPathCost: 249760
+Cost of new_path :249760
+minPathCost: 12256 currentCost: 251986 newPathCost: 249714
+Cost of new_path :249714
+minPathCost: 12256 currentCost: 251986 newPathCost: 249648
+Cost of new_path :249648
+Cost of new_path :249648
+minPathCost: 12256 currentCost: 251986 newPathCost: 249984
+Cost of new_path :249984
+minPathCost: 12256 currentCost: 251986 newPathCost: 249935
+Cost of new_path :249935
+Cost of new_path :249935
+minPathCost: 12256 currentCost: 251986 newPathCost: 249229
+Cost of new_path :249229
+Cost of new_path :249229
+minPathCost: 12256 currentCost: 251986 newPathCost: 249070
+Cost of new_path :249070
+Cost of new_path :249070
+Cost of new_path :249070
+Cost of new_path :249070
+Cost of new_path :249070
+Cost of new_path :249070
+Cost of new_path :249070
+minPathCost: 12256 currentCost: 251986 newPathCost: 249209
+Cost of new_path :249209
+Cost of new_path :249209
+minPathCost: 12256 currentCost: 251986 newPathCost: 248995
+Cost of new_path :248995
+Cost of new_path :248995
+Cost of new_path :248995
+Cost of new_path :248995
+Cost of new_path :248995
+Cost of new_path :248995
+Cost of new_path :248995
+minPathCost: 12256 currentCost: 251986 newPathCost: 248882
+Cost of new_path :248882
+Cost of new_path :248882
+Cost of new_path :248882
+Cost of new_path :248882
+minPathCost: 12256 currentCost: 251986 newPathCost: 248711
+Cost of new_path :248711
+minPathCost: 12256 currentCost: 251986 newPathCost: 248093
+Cost of new_path :248093
+Cost of new_path :248093
+Cost of new_path :248093
+Cost of new_path :248093
+minPathCost: 12256 currentCost: 251986 newPathCost: 248466
+Cost of new_path :248466
+Cost of new_path :248466
+minPathCost: 12256 currentCost: 251986 newPathCost: 248045
+Cost of new_path :248045
+Cost of new_path :248045
+Cost of new_path :248045
+minPathCost: 12256 currentCost: 251986 newPathCost: 248098
+Cost of new_path :248098
+Cost of new_path :248098
+Cost of new_path :248098
+Cost of new_path :248098
+Cost of new_path :248098
+Cost of new_path :248098
+Cost of new_path :248098
+minPathCost: 12256 currentCost: 251986 newPathCost: 248084
+Cost of new_path :248084
+Cost of new_path :248084
+Cost of new_path :248084
+minPathCost: 12256 currentCost: 251986 newPathCost: 247480
+Cost of new_path :247480
+minPathCost: 12256 currentCost: 251986 newPathCost: 247729
+Cost of new_path :247729
+Cost of new_path :247729
+Cost of new_path :247729
+minPathCost: 12256 currentCost: 251986 newPathCost: 247401
+Cost of new_path :247401
+minPathCost: 12256 currentCost: 251986 newPathCost: 247328
+Cost of new_path :247328
+Cost of new_path :247328
+Cost of new_path :247328
+minPathCost: 12256 currentCost: 251986 newPathCost: 247813
+Cost of new_path :247813
+Cost of new_path :247813
+Cost of new_path :247813
+minPathCost: 12256 currentCost: 251986 newPathCost: 247740
+Cost of new_path :247740
+Cost of new_path :247740
+Cost of new_path :247740
+Cost of new_path :247740
+Cost of new_path :247740
+Cost of new_path :247740
+Cost of new_path :247740
+Cost of new_path :247740
+Cost of new_path :247740
+minPathCost: 12256 currentCost: 251986 newPathCost: 247715
+Cost of new_path :247715
+minPathCost: 12256 currentCost: 251986 newPathCost: 247625
+Cost of new_path :247625
+minPathCost: 12256 currentCost: 251986 newPathCost: 247621
+Cost of new_path :247621
+minPathCost: 12256 currentCost: 251986 newPathCost: 247616
+Cost of new_path :247616
+Cost of new_path :247616
+Cost of new_path :247616
+Cost of new_path :247616
+Cost of new_path :247616
+Cost of new_path :247616
+Cost of new_path :247616
+Cost of new_path :247616
+Cost of new_path :247616
+Cost of new_path :247616
+Cost of new_path :247616
+Cost of new_path :247616
+minPathCost: 12256 currentCost: 251986 newPathCost: 247700
+Cost of new_path :247700
+Cost of new_path :247700
+Cost of new_path :247700
+Cost of new_path :247700
+Cost of new_path :247700
+minPathCost: 12256 currentCost: 251986 newPathCost: 247756
+Cost of new_path :247756
+Cost of new_path :247889
+Cost of new_path :247889
+Cost of new_path :247889
+Cost of new_path :247889
+Cost of new_path :247889
+minPathCost: 12256 currentCost: 247889 newPathCost: 247886
+Cost of new_path :247886
+Cost of new_path :247886
+minPathCost: 12256 currentCost: 247889 newPathCost: 247808
+Cost of new_path :247808
+minPathCost: 12256 currentCost: 247889 newPathCost: 247793
+Cost of new_path :247793
+minPathCost: 12256 currentCost: 247889 newPathCost: 247480
+Cost of new_path :247480
+Cost of new_path :247480
+Cost of new_path :247489
+minPathCost: 12256 currentCost: 247489 newPathCost: 247487
+Cost of new_path :247487
+Cost of new_path :247487
+Cost of new_path :247508
+Cost of new_path :247508
+Cost of new_path :247508
+minPathCost: 12256 currentCost: 247508 newPathCost: 247550
+Cost of new_path :247550
+Cost of new_path :247550
+Cost of new_path :247550
+Cost of new_path :247550
+Cost of new_path :247550
+Cost of new_path :247550
+Cost of new_path :247550
+minPathCost: 12256 currentCost: 247508 newPathCost: 247531
+Cost of new_path :247531
+Cost of new_path :247531
+Cost of new_path :247531
+Cost of new_path :247531
+Cost of new_path :247531
+Cost of new_path :247531
+minPathCost: 12256 currentCost: 247508 newPathCost: 247284
+Cost of new_path :247284
+minPathCost: 12256 currentCost: 247508 newPathCost: 247142
+Cost of new_path :247142
+Cost of new_path :247142
+minPathCost: 12256 currentCost: 247508 newPathCost: 247186
+Cost of new_path :247186
+Cost of new_path :247186
+minPathCost: 12256 currentCost: 247508 newPathCost: 247134
+Cost of new_path :247134
+Cost of new_path :247134
+Cost of new_path :247134
+minPathCost: 12256 currentCost: 247508 newPathCost: 247122
+Cost of new_path :247122
+minPathCost: 12256 currentCost: 247508 newPathCost: 247094
+Cost of new_path :247094
+minPathCost: 12256 currentCost: 247508 newPathCost: 246975
+Cost of new_path :246975
+Cost of new_path :246975
+minPathCost: 12256 currentCost: 247508 newPathCost: 246775
+Cost of new_path :246775
+minPathCost: 12256 currentCost: 247508 newPathCost: 246717
+Cost of new_path :246717
+Cost of new_path :246717
+Cost of new_path :246717
+Cost of new_path :246717
+Cost of new_path :246717
+Cost of new_path :246717
+minPathCost: 12256 currentCost: 247508 newPathCost: 246388
+Cost of new_path :246388
+Cost of new_path :246388
+Cost of new_path :246388
+minPathCost: 12256 currentCost: 247508 newPathCost: 246387
+Cost of new_path :246387
+minPathCost: 12256 currentCost: 247508 newPathCost: 246519
+Cost of new_path :246519
+minPathCost: 12256 currentCost: 247508 newPathCost: 246286
+Cost of new_path :246286
+minPathCost: 12256 currentCost: 247508 newPathCost: 245992
+Cost of new_path :245992
+Cost of new_path :245992
+Cost of new_path :245992
+Cost of new_path :245992
+Cost of new_path :245992
+minPathCost: 12256 currentCost: 247508 newPathCost: 245848
+Cost of new_path :245848
+Cost of new_path :245848
+Cost of new_path :245848
+Cost of new_path :245848
+Cost of new_path :245848
+Cost of new_path :245848
+Cost of new_path :245848
+Cost of new_path :245848
+Cost of new_path :245848
+minPathCost: 12256 currentCost: 247508 newPathCost: 245914
+Cost of new_path :245914
+Cost of new_path :245914
+Cost of new_path :245914
+Cost of new_path :245914
+Cost of new_path :245914
+Cost of new_path :245914
+minPathCost: 12256 currentCost: 247508 newPathCost: 246214
+Cost of new_path :246214
+Cost of new_path :246214
+Cost of new_path :246214
+Cost of new_path :246214
+Cost of new_path :246214
+Cost of new_path :246214
+Cost of new_path :246214
+minPathCost: 12256 currentCost: 247508 newPathCost: 246327
+Cost of new_path :246327
+Cost of new_path :246327
+Cost of new_path :246327
+minPathCost: 12256 currentCost: 247508 newPathCost: 246309
+Cost of new_path :246309
+minPathCost: 12256 currentCost: 247508 newPathCost: 246294
+Cost of new_path :246294
+Cost of new_path :246261
+Cost of new_path :246261
+Cost of new_path :246261
+minPathCost: 12256 currentCost: 246261 newPathCost: 246047
+Cost of new_path :246047
+minPathCost: 12256 currentCost: 246261 newPathCost: 245830
+Cost of new_path :245830
+minPathCost: 12256 currentCost: 246261 newPathCost: 246423
+Cost of new_path :246423
+Cost of new_path :246423
+Cost of new_path :246423
+Cost of new_path :246423
+minPathCost: 12256 currentCost: 246261 newPathCost: 246718
+Cost of new_path :246718
+Cost of new_path :246718
+Cost of new_path :246718
+Cost of new_path :246718
+Cost of new_path :246718
+minPathCost: 12256 currentCost: 246261 newPathCost: 246902
+Cost of new_path :246902
+minPathCost: 12256 currentCost: 246261 newPathCost: 246887
+Cost of new_path :246887
+minPathCost: 12256 currentCost: 246261 newPathCost: 246770
+Cost of new_path :246770
+Cost of new_path :246770
+Cost of new_path :246782
+Cost of new_path :246782
+minPathCost: 12256 currentCost: 246782 newPathCost: 246576
+Cost of new_path :246576
+Cost of new_path :246576
+Cost of new_path :246576
+minPathCost: 12256 currentCost: 246782 newPathCost: 246523
+Cost of new_path :246523
+Cost of new_path :246523
+Cost of new_path :246523
+Cost of new_path :246523
+Cost of new_path :246523
+minPathCost: 12256 currentCost: 246782 newPathCost: 246454
+Cost of new_path :246454
+Cost of new_path :246454
+minPathCost: 12256 currentCost: 246782 newPathCost: 246347
+Cost of new_path :246347
+minPathCost: 12256 currentCost: 246782 newPathCost: 246291
+Cost of new_path :246291
+Cost of new_path :246291
+minPathCost: 12256 currentCost: 246782 newPathCost: 246336
+Cost of new_path :246336
+Cost of new_path :246336
+Cost of new_path :246336
+minPathCost: 12256 currentCost: 246782 newPathCost: 246284
+Cost of new_path :246284
+Cost of new_path :246284
+minPathCost: 12256 currentCost: 246782 newPathCost: 246277
+Cost of new_path :246277
+minPathCost: 12256 currentCost: 246782 newPathCost: 246273
+Cost of new_path :246273
+Cost of new_path :246273
+minPathCost: 12256 currentCost: 246782 newPathCost: 246502
+Cost of new_path :246502
+minPathCost: 12256 currentCost: 246782 newPathCost: 246624
+Cost of new_path :246624
+Cost of new_path :246624
+Cost of new_path :246624
+Cost of new_path :246624
+Cost of new_path :246624
+minPathCost: 12256 currentCost: 246782 newPathCost: 246326
+Cost of new_path :246326
+minPathCost: 12256 currentCost: 246782 newPathCost: 246207
+Cost of new_path :246207
+Cost of new_path :246216
+Cost of new_path :246216
+minPathCost: 12256 currentCost: 246216 newPathCost: 246170
+Cost of new_path :246170
+Cost of new_path :246170
+minPathCost: 12256 currentCost: 246216 newPathCost: 246602
+Cost of new_path :246602
+Cost of new_path :246602
+Cost of new_path :246602
+minPathCost: 12256 currentCost: 246216 newPathCost: 246550
+Cost of new_path :246550
+minPathCost: 12256 currentCost: 246216 newPathCost: 247000
+Cost of new_path :247000
+minPathCost: 12256 currentCost: 246216 newPathCost: 246566
+Cost of new_path :246566
+minPathCost: 12256 currentCost: 246216 newPathCost: 246841
+Cost of new_path :246841
+Cost of new_path :246841
+Cost of new_path :246841
+Cost of new_path :246841
+Cost of new_path :246841
+Cost of new_path :246841
+Cost of new_path :246841
+Cost of new_path :246841
+Cost of new_path :246841
+Cost of new_path :246841
+minPathCost: 12256 currentCost: 246216 newPathCost: 246830
+Cost of new_path :246830
+Cost of new_path :246830
+Cost of new_path :246830
+Cost of new_path :246830
+Cost of new_path :246830
+Cost of new_path :246830
+minPathCost: 12256 currentCost: 246216 newPathCost: 246965
+Cost of new_path :246965
+Cost of new_path :246965
+Cost of new_path :246965
+Cost of new_path :246965
+Cost of new_path :246965
+Cost of new_path :246965
+minPathCost: 12256 currentCost: 246216 newPathCost: 246961
+Cost of new_path :246961
+Cost of new_path :246961
+Cost of new_path :246961
+minPathCost: 12256 currentCost: 246216 newPathCost: 246821
+Cost of new_path :246821
+Cost of new_path :246821
+Cost of new_path :246821
+Cost of new_path :246821
+minPathCost: 12256 currentCost: 246216 newPathCost: 247026
+Cost of new_path :247026
+minPathCost: 12256 currentCost: 246216 newPathCost: 246910
+Cost of new_path :246910
+minPathCost: 12256 currentCost: 246216 newPathCost: 246844
+Cost of new_path :246844
+Cost of new_path :246844
+Cost of new_path :246844
+Cost of new_path :246786
+minPathCost: 12256 currentCost: 246786 newPathCost: 246777
+Cost of new_path :246777
+minPathCost: 12256 currentCost: 246786 newPathCost: 247803
+Cost of new_path :247803
+Cost of new_path :247803
+Cost of new_path :247803
+minPathCost: 12256 currentCost: 246786 newPathCost: 247813
+Cost of new_path :247813
+Cost of new_path :247813
+Cost of new_path :247813
+minPathCost: 12256 currentCost: 246786 newPathCost: 247702
+Cost of new_path :247702
+minPathCost: 12256 currentCost: 246786 newPathCost: 247687
+Cost of new_path :247687
+Cost of new_path :247687
+Cost of new_path :247687
+Cost of new_path :247687
+minPathCost: 12256 currentCost: 246786 newPathCost: 248660
+Cost of new_path :248660
+Cost of new_path :248660
+Cost of new_path :248660
+Cost of new_path :248660
+minPathCost: 12256 currentCost: 246786 newPathCost: 248573
+Cost of new_path :248573
+minPathCost: 12256 currentCost: 246786 newPathCost: 248298
+Cost of new_path :248298
+Cost of new_path :248298
+Cost of new_path :248298
+Cost of new_path :248298
+Cost of new_path :248298
+minPathCost: 12256 currentCost: 246786 newPathCost: 248199
+Cost of new_path :248199
+Cost of new_path :248199
+Cost of new_path :248199
+Cost of new_path :248199
+minPathCost: 12256 currentCost: 246786 newPathCost: 247804
+Cost of new_path :247804
+Cost of new_path :247804
+minPathCost: 12256 currentCost: 246786 newPathCost: 247602
+Cost of new_path :247602
+Cost of new_path :247602
+minPathCost: 12256 currentCost: 246786 newPathCost: 247593
+Cost of new_path :247593
+Cost of new_path :247694
+Cost of new_path :247694
+minPathCost: 12256 currentCost: 247694 newPathCost: 246999
+Cost of new_path :246999
+Cost of new_path :246999
+minPathCost: 12256 currentCost: 247694 newPathCost: 246777
+Cost of new_path :246777
+Cost of new_path :246777
+Cost of new_path :246777
+minPathCost: 12256 currentCost: 247694 newPathCost: 246779
+Cost of new_path :246779
+minPathCost: 12256 currentCost: 247694 newPathCost: 246766
+Cost of new_path :246766
+Cost of new_path :246766
+Cost of new_path :246766
+Cost of new_path :246766
+Cost of new_path :246766
+Cost of new_path :246766
+minPathCost: 12256 currentCost: 247694 newPathCost: 246735
+Cost of new_path :246735
+Cost of new_path :246735
+Cost of new_path :246735
+Cost of new_path :246735
+minPathCost: 12256 currentCost: 247694 newPathCost: 246547
+Cost of new_path :246547
+minPathCost: 12256 currentCost: 247694 newPathCost: 246812
+Cost of new_path :246812
+Cost of new_path :246812
+Cost of new_path :246812
+Cost of new_path :246812
+minPathCost: 12256 currentCost: 247694 newPathCost: 246756
+Cost of new_path :246756
+Cost of new_path :246756
+Cost of new_path :246756
+minPathCost: 12256 currentCost: 247694 newPathCost: 247147
+Cost of new_path :247147
+Cost of new_path :247147
+minPathCost: 12256 currentCost: 247694 newPathCost: 247110
+Cost of new_path :247110
+minPathCost: 12256 currentCost: 247694 newPathCost: 247091
+Cost of new_path :247091
+Cost of new_path :247091
+Cost of new_path :247091
+minPathCost: 12256 currentCost: 247694 newPathCost: 246711
+Cost of new_path :246711
+Cost of new_path :246711
+minPathCost: 12256 currentCost: 247694 newPathCost: 246615
+Cost of new_path :246615
+Cost of new_path :246615
+Cost of new_path :246615
+Cost of new_path :246615
+Cost of new_path :246615
+Cost of new_path :246615
+Cost of new_path :246615
+Cost of new_path :246615
+Cost of new_path :246615
+Cost of new_path :246615
+Cost of new_path :246615
+minPathCost: 12256 currentCost: 247694 newPathCost: 246536
+Cost of new_path :246536
+minPathCost: 12256 currentCost: 247694 newPathCost: 246738
+Cost of new_path :246738
+minPathCost: 12256 currentCost: 247694 newPathCost: 247427
+Cost of new_path :247427
+Cost of new_path :247427
+Cost of new_path :247427
+Cost of new_path :247427
+minPathCost: 12256 currentCost: 247694 newPathCost: 247661
+Cost of new_path :247661
+Cost of new_path :247661
+Cost of new_path :247661
+Cost of new_path :247661
+Cost of new_path :247661
+Cost of new_path :247661
+Cost of new_path :247661
+Cost of new_path :247661
+Cost of new_path :247661
+minPathCost: 12256 currentCost: 247694 newPathCost: 247571
+Cost of new_path :247571
+Cost of new_path :247571
+minPathCost: 12256 currentCost: 247694 newPathCost: 247284
+Cost of new_path :247284
+Cost of new_path :247284
+Cost of new_path :247284
+Cost of new_path :247284
+minPathCost: 12256 currentCost: 247694 newPathCost: 247212
+Cost of new_path :247212
+minPathCost: 12256 currentCost: 247694 newPathCost: 247239
+Cost of new_path :247239
+minPathCost: 12256 currentCost: 247694 newPathCost: 247717
+Cost of new_path :247717
+minPathCost: 12256 currentCost: 247694 newPathCost: 247670
+Cost of new_path :247670
+Cost of new_path :247670
+Cost of new_path :247670
+Cost of new_path :247670
+Cost of new_path :247670
+minPathCost: 12256 currentCost: 247694 newPathCost: 247855
+Cost of new_path :247855
+minPathCost: 12256 currentCost: 247694 newPathCost: 248424
+Cost of new_path :248424
+Cost of new_path :248424
+Cost of new_path :248424
+Cost of new_path :248424
+minPathCost: 12256 currentCost: 247694 newPathCost: 248236
+Cost of new_path :248236
+Cost of new_path :248236
+Cost of new_path :248236
+minPathCost: 12256 currentCost: 247694 newPathCost: 248628
+Cost of new_path :248628
+Cost of new_path :248628
+Cost of new_path :248628
+Cost of new_path :248628
+Cost of new_path :248628
+Cost of new_path :248628
+Cost of new_path :248628
+Cost of new_path :248628
+Cost of new_path :248628
+Cost of new_path :248628
+Cost of new_path :248628
+minPathCost: 12256 currentCost: 247694 newPathCost: 248475
+Cost of new_path :248475
+Cost of new_path :248475
+minPathCost: 12256 currentCost: 247694 newPathCost: 248285
+Cost of new_path :248285
+Cost of new_path :248285
+Cost of new_path :248285
+Cost of new_path :248285
+minPathCost: 12256 currentCost: 247694 newPathCost: 248262
+Cost of new_path :248262
+minPathCost: 12256 currentCost: 247694 newPathCost: 248447
+Cost of new_path :248447
+Cost of new_path :248447
+minPathCost: 12256 currentCost: 247694 newPathCost: 248236
+Cost of new_path :248236
+Cost of new_path :248236
+minPathCost: 12256 currentCost: 247694 newPathCost: 248201
+Cost of new_path :248201
+Cost of new_path :248201
+Cost of new_path :248201
+Cost of new_path :248201
+Cost of new_path :248201
+minPathCost: 12256 currentCost: 247694 newPathCost: 248538
+Cost of new_path :248538
+minPathCost: 12256 currentCost: 247694 newPathCost: 247736
+Cost of new_path :247736
+Cost of new_path :247736
+Cost of new_path :247736
+Cost of new_path :247736
+minPathCost: 12256 currentCost: 247694 newPathCost: 247681
+Cost of new_path :247681
+Cost of new_path :247681
+minPathCost: 12256 currentCost: 247694 newPathCost: 247379
+Cost of new_path :247379
+Cost of new_path :247379
+Cost of new_path :247379
+Cost of new_path :247379
+Cost of new_path :247379
+Cost of new_path :247379
+Cost of new_path :247379
+Cost of new_path :247379
+Cost of new_path :247379
+Cost of new_path :247379
+Cost of new_path :247379
+Cost of new_path :247379
+Cost of new_path :247379
+Cost of new_path :247379
+minPathCost: 12256 currentCost: 247694 newPathCost: 247515
+Cost of new_path :247515
+Cost of new_path :247515
+minPathCost: 12256 currentCost: 247694 newPathCost: 247658
+Cost of new_path :247658
+Cost of new_path :247658
+minPathCost: 12256 currentCost: 247694 newPathCost: 247601
+Cost of new_path :247601
+minPathCost: 12256 currentCost: 247694 newPathCost: 247768
+Cost of new_path :247768
+Cost of new_path :247768
+minPathCost: 12256 currentCost: 247694 newPathCost: 247761
+Cost of new_path :247761
+minPathCost: 12256 currentCost: 247694 newPathCost: 247856
+Cost of new_path :247856
+Cost of new_path :247856
+Cost of new_path :247856
+Cost of new_path :247856
+minPathCost: 12256 currentCost: 247694 newPathCost: 247892
+Cost of new_path :247892
+Cost of new_path :247892
+minPathCost: 12256 currentCost: 247694 newPathCost: 247628
+Cost of new_path :247628
+Cost of new_path :247628
+Cost of new_path :247628
+Cost of new_path :247628
+minPathCost: 12256 currentCost: 247694 newPathCost: 247865
+Cost of new_path :247865
+minPathCost: 12256 currentCost: 247694 newPathCost: 247405
+Cost of new_path :247405
+minPathCost: 12256 currentCost: 247694 newPathCost: 247108
+Cost of new_path :247108
+minPathCost: 12256 currentCost: 247694 newPathCost: 246808
+Cost of new_path :246808
+Cost of new_path :246808
+minPathCost: 12256 currentCost: 247694 newPathCost: 246618
+Cost of new_path :246618
+minPathCost: 12256 currentCost: 247694 newPathCost: 246596
+Cost of new_path :246596
+Cost of new_path :246596
+minPathCost: 12256 currentCost: 247694 newPathCost: 246274
+Cost of new_path :246274
+Cost of new_path :246274
+minPathCost: 12256 currentCost: 247694 newPathCost: 246047
+Cost of new_path :246047
+minPathCost: 12256 currentCost: 247694 newPathCost: 246469
+Cost of new_path :246469
+Cost of new_path :246469
+minPathCost: 12256 currentCost: 247694 newPathCost: 246371
+Cost of new_path :246371
+Cost of new_path :246371
+minPathCost: 12256 currentCost: 247694 newPathCost: 246426
+Cost of new_path :246426
+minPathCost: 12256 currentCost: 247694 newPathCost: 246424
+Cost of new_path :246424
+Cost of new_path :246424
+Cost of new_path :246424
+Cost of new_path :246424
+Cost of new_path :246424
+minPathCost: 12256 currentCost: 247694 newPathCost: 246425
+Cost of new_path :246425
+minPathCost: 12256 currentCost: 247694 newPathCost: 246192
+Cost of new_path :246192
+Cost of new_path :246192
+Cost of new_path :246192
+Cost of new_path :246192
+Cost of new_path :246192
+minPathCost: 12256 currentCost: 247694 newPathCost: 246170
+Cost of new_path :246170
+minPathCost: 12256 currentCost: 247694 newPathCost: 245843
+Cost of new_path :245843
+Cost of new_path :245843
+minPathCost: 12256 currentCost: 247694 newPathCost: 245740
+Cost of new_path :245740
+minPathCost: 12256 currentCost: 247694 newPathCost: 245708
+Cost of new_path :245708
+Cost of new_path :245708
+Cost of new_path :245708
+minPathCost: 12256 currentCost: 247694 newPathCost: 245677
+Cost of new_path :245677
+minPathCost: 12256 currentCost: 247694 newPathCost: 245749
+Cost of new_path :245749
+minPathCost: 12256 currentCost: 247694 newPathCost: 245729
+Cost of new_path :245729
+Cost of new_path :245729
+minPathCost: 12256 currentCost: 247694 newPathCost: 245699
+Cost of new_path :245699
+Cost of new_path :245699
+minPathCost: 12256 currentCost: 247694 newPathCost: 246085
+Cost of new_path :246085
+minPathCost: 12256 currentCost: 247694 newPathCost: 245985
+Cost of new_path :245985
+Cost of new_path :245985
+Cost of new_path :245985
+Cost of new_path :245985
+minPathCost: 12256 currentCost: 247694 newPathCost: 245856
+Cost of new_path :245856
+minPathCost: 12256 currentCost: 247694 newPathCost: 245820
+Cost of new_path :245820
+minPathCost: 12256 currentCost: 247694 newPathCost: 245692
+Cost of new_path :245692
+Cost of new_path :245692
+Cost of new_path :245692
+minPathCost: 12256 currentCost: 247694 newPathCost: 245470
+Cost of new_path :245470
+minPathCost: 12256 currentCost: 247694 newPathCost: 245580
+Cost of new_path :245580
+minPathCost: 12256 currentCost: 247694 newPathCost: 245485
+Cost of new_path :245485
+Cost of new_path :245485
+minPathCost: 12256 currentCost: 247694 newPathCost: 245448
+Cost of new_path :245448
+minPathCost: 12256 currentCost: 247694 newPathCost: 245235
+Cost of new_path :245235
+Cost of new_path :245235
+Cost of new_path :245235
+Cost of new_path :245235
+Cost of new_path :245235
+Cost of new_path :245235
+minPathCost: 12256 currentCost: 247694 newPathCost: 245054
+Cost of new_path :245054
+Cost of new_path :245054
+Cost of new_path :245054
+minPathCost: 12256 currentCost: 247694 newPathCost: 244771
+Cost of new_path :244771
+Cost of new_path :244771
+Cost of new_path :244771
+Cost of new_path :244771
+Cost of new_path :244771
+Cost of new_path :244771
+Cost of new_path :244771
+minPathCost: 12256 currentCost: 247694 newPathCost: 244906
+Cost of new_path :244906
+minPathCost: 12256 currentCost: 247694 newPathCost: 244865
+Cost of new_path :244865
+Cost of new_path :244865
+Cost of new_path :244865
+Cost of new_path :244865
+Cost of new_path :244865
+minPathCost: 12256 currentCost: 247694 newPathCost: 244556
+Cost of new_path :244556
+Cost of new_path :244556
+minPathCost: 12256 currentCost: 247694 newPathCost: 244310
+Cost of new_path :244310
+Cost of new_path :244310
+minPathCost: 12256 currentCost: 247694 newPathCost: 244575
+Cost of new_path :244575
+Cost of new_path :244575
+Cost of new_path :244575
+minPathCost: 12256 currentCost: 247694 newPathCost: 244530
+Cost of new_path :244530
+Cost of new_path :244530
+Cost of new_path :244530
+minPathCost: 12256 currentCost: 247694 newPathCost: 244375
+Cost of new_path :244375
+minPathCost: 12256 currentCost: 247694 newPathCost: 243925
+Cost of new_path :243925
+Cost of new_path :243925
+Cost of new_path :243925
+Cost of new_path :243925
+minPathCost: 12256 currentCost: 247694 newPathCost: 243535
+Cost of new_path :243535
+Cost of new_path :243535
+Cost of new_path :243535
+minPathCost: 12256 currentCost: 247694 newPathCost: 243425
+Cost of new_path :243425
+minPathCost: 12256 currentCost: 247694 newPathCost: 243817
+Cost of new_path :243817
+Cost of new_path :243817
+minPathCost: 12256 currentCost: 247694 newPathCost: 243658
+Cost of new_path :243658
+Cost of new_path :243658
+minPathCost: 12256 currentCost: 247694 newPathCost: 243375
+Cost of new_path :243375
+Cost of new_path :243375
+Cost of new_path :243375
+minPathCost: 12256 currentCost: 247694 newPathCost: 244084
+Cost of new_path :244084
+minPathCost: 12256 currentCost: 247694 newPathCost: 244436
+Cost of new_path :244436
+Cost of new_path :244436
+minPathCost: 12256 currentCost: 247694 newPathCost: 244435
+Cost of new_path :244435
+Cost of new_path :244435
+minPathCost: 12256 currentCost: 247694 newPathCost: 244047
+Cost of new_path :244047
+Cost of new_path :244047
+Cost of new_path :244047
+Cost of new_path :244047
+Cost of new_path :244047
+minPathCost: 12256 currentCost: 247694 newPathCost: 244192
+Cost of new_path :244192
+Cost of new_path :244192
+minPathCost: 12256 currentCost: 247694 newPathCost: 244153
+Cost of new_path :244153
+Cost of new_path :244153
+minPathCost: 12256 currentCost: 247694 newPathCost: 244149
+Cost of new_path :244149
+Cost of new_path :244149
+minPathCost: 12256 currentCost: 247694 newPathCost: 243966
+Cost of new_path :243966
+minPathCost: 12256 currentCost: 247694 newPathCost: 243956
+Cost of new_path :243956
+Cost of new_path :243956
+minPathCost: 12256 currentCost: 247694 newPathCost: 243560
+Cost of new_path :243560
+minPathCost: 12256 currentCost: 247694 newPathCost: 243503
+Cost of new_path :243503
+Cost of new_path :243503
+minPathCost: 12256 currentCost: 247694 newPathCost: 243485
+Cost of new_path :243485
+Cost of new_path :243485
+minPathCost: 12256 currentCost: 247694 newPathCost: 243207
+Cost of new_path :243207
+Cost of new_path :243207
+minPathCost: 12256 currentCost: 247694 newPathCost: 242982
+Cost of new_path :242982
+minPathCost: 12256 currentCost: 247694 newPathCost: 242867
+Cost of new_path :242867
+Cost of new_path :242867
+Cost of new_path :242867
+Cost of new_path :242867
+Cost of new_path :242867
+minPathCost: 12256 currentCost: 247694 newPathCost: 243108
+Cost of new_path :243108
+Cost of new_path :243209
+Cost of new_path :243209
+Cost of new_path :243209
+minPathCost: 12256 currentCost: 243209 newPathCost: 243148
+Cost of new_path :243148
+minPathCost: 12256 currentCost: 243209 newPathCost: 243513
+Cost of new_path :243513
+minPathCost: 12256 currentCost: 243209 newPathCost: 243537
+Cost of new_path :243537
+Cost of new_path :243537
+minPathCost: 12256 currentCost: 243209 newPathCost: 243532
+Cost of new_path :243532
+minPathCost: 12256 currentCost: 243209 newPathCost: 243331
+Cost of new_path :243331
+Cost of new_path :243331
+minPathCost: 12256 currentCost: 243209 newPathCost: 243521
+Cost of new_path :243521
+Cost of new_path :243521
+minPathCost: 12256 currentCost: 243209 newPathCost: 243733
+Cost of new_path :243733
+Cost of new_path :243733
+Cost of new_path :243733
+minPathCost: 12256 currentCost: 243209 newPathCost: 244003
+Cost of new_path :244003
+Cost of new_path :244003
+minPathCost: 12256 currentCost: 243209 newPathCost: 243830
+Cost of new_path :243830
+Cost of new_path :243830
+minPathCost: 12256 currentCost: 243209 newPathCost: 243768
+Cost of new_path :243768
+Cost of new_path :243768
+Cost of new_path :243768
+Cost of new_path :243768
+Cost of new_path :243768
+Cost of new_path :243768
+minPathCost: 12256 currentCost: 243209 newPathCost: 243682
+Cost of new_path :243682
+Cost of new_path :243682
+Cost of new_path :243682
+Cost of new_path :243682
+Cost of new_path :243682
+Cost of new_path :243682
+minPathCost: 12256 currentCost: 243209 newPathCost: 244475
+Cost of new_path :244475
+Cost of new_path :244475
+minPathCost: 12256 currentCost: 243209 newPathCost: 244421
+Cost of new_path :244421
+minPathCost: 12256 currentCost: 243209 newPathCost: 244458
+Cost of new_path :244458
+Cost of new_path :244458
+Cost of new_path :244458
+minPathCost: 12256 currentCost: 243209 newPathCost: 244383
+Cost of new_path :244383
+Cost of new_path :244383
+Cost of new_path :244383
+Cost of new_path :244383
+Cost of new_path :244383
+minPathCost: 12256 currentCost: 243209 newPathCost: 244369
+Cost of new_path :244369
+Cost of new_path :244369
+Cost of new_path :244369
+Cost of new_path :244369
+minPathCost: 12256 currentCost: 243209 newPathCost: 244284
+Cost of new_path :244284
+minPathCost: 12256 currentCost: 243209 newPathCost: 244267
+Cost of new_path :244267
+Cost of new_path :244267
+Cost of new_path :244267
+Cost of new_path :244267
+minPathCost: 12256 currentCost: 243209 newPathCost: 244225
+Cost of new_path :244225
+minPathCost: 12256 currentCost: 243209 newPathCost: 244242
+Cost of new_path :244242
+Cost of new_path :244242
+cost of min path:12256
