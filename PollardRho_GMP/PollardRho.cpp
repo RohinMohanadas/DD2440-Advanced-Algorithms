@@ -5,62 +5,8 @@
 
 using namespace std;
 
-void pollard(mpz_t ret, mpz_t Number, gmp_randstate_t state)
-{
-    mpz_t x, y, c, d, randLimit, rop;
-    mpz_init(x);
-    mpz_init(y);
-    mpz_init(c);
-    mpz_init(d);
-    mpz_init(randLimit);
-    mpz_init(rop);
-
-    mpz_set_str(randLimit, "999998", 10);
-    if (mpz_divisible_ui_p(Number, 2))
-    {
-        mpz_set_str(ret, "2", 10);
-    }
-    else
-    {
-        cout << "test1" << endl;
-        gmp_randinit_mt(state);
-        mpz_urandomm(x, state, randLimit);
-        cout << "testblah" << endl;
-        mpz_add_ui(x, x, 2); //obtained random x
-        gmp_printf("x is %Zd\n", x);
-        mpz_set(y, x); //x=y
-        cout << "testblah2" << endl;
-        gmp_randinit_mt(state);
-        mpz_urandomm(c, state, randLimit);
-        mpz_add_ui(c, c, 2); //obtained random c
-        gmp_printf("c is %Zd\n", c);
-        mpz_set_str(d, "1", 10);
-        cout << "test2" << endl;
-        while (mpz_cmp_ui(d, 1) == 0)
-        {
-            mpz_mul(x, x, x);
-            mpz_add(x, x, c);
-            mpz_mod(x, x, Number); // hare
-
-            mpz_mul(y, y, y);
-            mpz_add(y, y, c);
-            mpz_mod(y, y, Number);
-            mpz_mul(y, y, y);
-            mpz_add(y, y, c);
-            mpz_mod(y, y, Number); // tortoise
-
-            mpz_sub(rop, x, y);
-            mpz_abs(rop, rop);
-            mpz_gcd(d, rop, Number);
-            if (mpz_cmp(d, Number) == 0)
-            {
-                break;
-            }
-        }
-        cout << "test3" << endl;
-        mpz_set(ret, rop);
-    }
-}
+//  This function takes in an integer as input and sets the value of ret
+//  to one of its factors. This factor is not necessarily a prime factor
 bool pollard2(mpz_t ret, mpz_t Number)
 {
     int counter = 0;
@@ -70,35 +16,36 @@ bool pollard2(mpz_t ret, mpz_t Number)
     mpz_init(p);
     mpz_init(d);
     mpz_init(rop);
-    mpz_set_str(x, "2", 10); //  x is 2 initially
+    mpz_set_str(x, "2", 10); //  x is 2 initially : this is one avenue of introducing randomness
 
-    mpz_mul(rop, x, x);
-    mpz_add_ui(rop, rop, 1);   //  rop = f x
-    mpz_mod(rop, rop, Number); //  hare
-    mpz_set(y, rop);           // y is f(x)
+    mpz_mul(rop, x, x);        //  x^2
+    mpz_add_ui(rop, rop, 1);   //  x^2 + 1
+    mpz_mod(rop, rop, Number); //  f(x) = (x^2 + 1) mod N
+    mpz_set(y, rop);           //  y = f(x)
 
     mpz_sub(rop, x, y);
     mpz_abs(rop, rop);
-    mpz_gcd(p, rop, Number);
+    mpz_gcd(p, rop, Number); //  gcd(|x-y|)
 
     while (mpz_cmp_ui(p, 1) == 0)
     {
-        if (counter >= 100000)
+        if (counter >= 100000) //  Limiter used to prevent Pollard from running infinitely
         {
             // probable prime
             mpz_set_str(ret, "0", 10);
             return false;
         }
+
         mpz_mul(x, x, x);
-        mpz_add_ui(x, x, 1);   //  rop = f x
-        mpz_mod(x, x, Number); //  hare
+        mpz_add_ui(x, x, 1);   //  rop = f(x)
+        mpz_mod(x, x, Number); //  tortoise
 
         mpz_mul(y, y, y);
-        mpz_add_ui(y, y, 1);   //  rop = f x
-        mpz_mod(y, y, Number); //  hare
+        mpz_add_ui(y, y, 1);
+        mpz_mod(y, y, Number);
         mpz_mul(y, y, y);
-        mpz_add_ui(y, y, 1);   //  rop = f x
-        mpz_mod(y, y, Number); //  hare
+        mpz_add_ui(y, y, 1);   //  rop = f(f(x))
+        mpz_mod(y, y, Number); //  rabbit
 
         mpz_sub(rop, x, y);
         mpz_abs(rop, rop);
@@ -117,6 +64,11 @@ bool pollard2(mpz_t ret, mpz_t Number)
 
 int indx = 0;
 
+//  Buffering and printing function. The function will store the factors passed to it
+//  If while computing a factor, limit is breached or the time limit is exceeded, then
+//  flush variable is set to true, in which case, it disregards all the stored factors
+//  and sets the global index variable to 0. print variable is set to true when all the
+//  prime factors have been found and only then the prime factors are sent to the std op
 void printer(mpz_t factor, mpz_t *naive_op, bool print, bool flush)
 {
 
@@ -145,49 +97,48 @@ void printer(mpz_t factor, mpz_t *naive_op, bool print, bool flush)
     }
 }
 
+//  The naive factorization method. Takes 2 mpz_t arrays and two counter variables as parameters
+//  naive_ip array contains the factors of an integer as output by Pollard Rho algorithm. Also, a
+//  Limiter is set to limit the max size of a prime factor so that naive algorithm does not run for
+//  more than 15 seconds which is the allowed time limit.
 void naive(mpz_t *naive_ip, mpz_t *naive_op, int ipCtr, int opCtr)
 {
     bool failFlag = false;
-    mpz_t rop, two, limit;
+    mpz_t rop, divisor, limit;
     mpz_init(rop);
-    mpz_init(two);
+    mpz_init(divisor);
     mpz_init(limit);
-    mpz_set_str(two, "2", 10);
-    mpz_set_str(limit, "7999999", 10);
+    mpz_set_str(divisor, "2", 10);
+    mpz_set_str(limit, "3999999", 10);
     int i = 0;
     for (i = 0; i <= ipCtr; i++)
     {
-        // cout << "Test 1 and ipctr is" <<ipCtr<< endl;
         if (mpz_probab_prime_p(naive_ip[i], 50) == 2)
         {
-            // cout << "Test 2" << endl;
             printer(naive_ip[i], naive_op, false, false);
         }
         else
         {
         //  add the prime to list
-        // gmp_printf("Test 3 %Zd\n", naive_ip[i]);
         returnPoint:
             mpz_sqrt(rop, naive_ip[i]);
-            mpz_set_str(two, "2", 10);
-            while (mpz_cmp(two, rop) <= 0)
+            mpz_set_str(divisor, "2", 10);
+            while (mpz_cmp(divisor, rop) <= 0)
             {
-                if (mpz_divisible_p(naive_ip[i], two) != 0)
+                if (mpz_divisible_p(naive_ip[i], divisor) != 0)
                 {
-                    // gmp_printf("%Zd\n", two);
-                    printer(two, naive_op, false, false);
-                    mpz_cdiv_q(naive_ip[i], naive_ip[i], two);
-                    // flag[k] = true;
+
+                    printer(divisor, naive_op, false, false);
+                    mpz_cdiv_q(naive_ip[i], naive_ip[i], divisor);
                     goto returnPoint; //find other factors
                 }
                 else
                 {
-                    mpz_add_ui(two, two, 1);
+                    mpz_add_ui(divisor, divisor, 1);
                 }
-                if (mpz_cmp(two, limit) >= 0)
+                if (mpz_cmp(divisor, limit) >= 0)
                 {
-                    // cout << "Here" << endl;
-                    printer(two, naive_op, false, true);
+                    printer(divisor, naive_op, false, true);
                     failFlag = true;
                     break;
                 }
@@ -202,6 +153,8 @@ void naive(mpz_t *naive_ip, mpz_t *naive_op, int ipCtr, int opCtr)
     }
     return;
 }
+
+//  Execution starts here
 int main()
 {
     int count = 1000, bits = 100, i = 0;
@@ -220,7 +173,6 @@ int main()
     {
         mpz_init2(num_arr[i], bits);
         mpz_set(num_arr[i++], z);
-        // cout << "Scan :" << i << endl;
     }
 
     for (int j = 0; j < i; j++)
@@ -228,9 +180,9 @@ int main()
         int ipCtr = 0;
         int opCtr = 0;
 
+        //  Execute pollard till it returns false. i.e. till there are possible factors.
         while (pollard2(ret, num_arr[j]))
         {
-            // gmp_printf("%Zd\n", ret);
             mpz_init2(naive_ip[ipCtr], bits);
             mpz_set(naive_ip[ipCtr++], ret);
 
@@ -239,14 +191,12 @@ int main()
                 break;
         }
 
-        // gmp_printf("%Zd\n", z);
         mpz_init2(naive_ip[ipCtr], bits);
         mpz_set(naive_ip[ipCtr], num_arr[j]);
-        // cout << "Number for Pollard factors: " << ipCtr + 1 << endl;
+
         naive(naive_ip, naive_op, ipCtr, opCtr);
 
-        cout<<endl;
+        cout << endl;
     }
-    //for
     return 0;
 }
